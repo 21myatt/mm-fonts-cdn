@@ -1,8 +1,8 @@
 {
   "name": "Myanmar Fonts CDN",
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "aliases": {
-    "v1": "1.0.0"
+    "v1": "1.0.1"
   },
   "catalog": "v1/catalog.json",
   "stylesheet": "v1/mmfonts.css",

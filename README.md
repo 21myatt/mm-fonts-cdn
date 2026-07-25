@@ -89,8 +89,8 @@ Versioned release artifacts are intentionally committed under `dist/` so they
 can be served through jsDelivr from the GitHub repository:
 
 ```text
-https://cdn.jsdelivr.net/gh/21myatt/mm-fonts-cdn@v1.0.0/dist/1.0.0/mmfonts.css
-https://cdn.jsdelivr.net/gh/21myatt/mm-fonts-cdn@v1.0.0/dist/1.0.0/catalog.json
+https://cdn.jsdelivr.net/gh/21myatt/mm-fonts-cdn@v1.0.1/dist/1.0.1/mmfonts.css
+https://cdn.jsdelivr.net/gh/21myatt/mm-fonts-cdn@v1.0.1/dist/1.0.1/catalog.json
 ```
 
 Create a new immutable Git tag for every published CDN version. Do not move or

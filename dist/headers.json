@@ -3,7 +3,7 @@
     "Access-Control-Allow-Origin": "*"
   },
   "routes": {
-    "/1.0.0/*": {
+    "/1.0.1/*": {
       "Cache-Control": "public, max-age=31536000, immutable"
     },
     "/v1/*": {
