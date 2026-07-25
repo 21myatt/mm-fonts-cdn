@@ -1,0 +1,4647 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "name": "Myanmar Fonts CDN",
+  "description": "Versioned CDN metadata for SaturnGod's Myanmar Unicode font collection.",
+  "upstream": "https://github.com/saturngod/myanmar-unicode-fonts",
+  "credits": {
+    "curator": "SaturnGod (Htain Lin Shwe)",
+    "contributors": [
+      "Htain Lin Shwe / SaturnGod",
+      "dependabot[bot]",
+      "Aung Myo Kyaw",
+      "Ko Htet Zaw (khzaw) and awesome-myanmar-unicode contributors"
+    ],
+    "details": "CREDITS.md"
+  },
+  "licensePolicy": {
+    "status": "mixed-or-unverified",
+    "notice": "Font licenses must be verified individually before public redistribution.",
+    "details": "NOTICE.md"
+  },
+  "authors": [
+    {
+      "key": "khmer",
+      "title": "Khmer Type",
+      "description": "Modern and legacy Unicode fonts from KhmerType collection.",
+      "link": "https://github.com/khmertype",
+      "fontFolder": "KhmerType"
+    },
+    {
+      "key": "masterpiece",
+      "title": "Masterpiece",
+      "description": "Masterpiece Unicode fonts for display and body text.",
+      "link": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/",
+      "fontFolder": "masterpiece"
+    },
+    {
+      "key": "phoenix-digital-art",
+      "title": "Phoenix Digital Art",
+      "description": "Special purpose font releases from Phoenix Digital Art.",
+      "link": "https://www.facebook.com/PhoenixDigitalArt",
+      "fontFolder": "PhoenixDigitalArt"
+    },
+    {
+      "key": "one-type",
+      "title": "One Type",
+      "description": "Free font releases from One Type.",
+      "link": "https://www.facebook.com/onetype.fontstudio",
+      "fontFolder": "OneType"
+    },
+    {
+      "key": "aka",
+      "title": "A Ka",
+      "description": "A Ka Myanmar Unicode font family.",
+      "link": "https://www.facebook.com/profile.php?id=61570100936629",
+      "fontFolder": "Aka"
+    },
+    {
+      "key": "saimoon",
+      "title": "Sai Moon",
+      "description": "Sai Moon Unicode font family.",
+      "link": "https://www.facebook.com/21.11creative/",
+      "fontFolder": "SaiMoon"
+    },
+    {
+      "key": "unknown",
+      "title": "Unknown Author",
+      "description": "Community fonts with unknown or mixed attribution.",
+      "link": "",
+      "fontFolder": "unknown"
+    },
+    {
+      "key": "other",
+      "title": "Other Fonts",
+      "description": "Additional Myanmar Unicode families from multiple sources.",
+      "link": "",
+      "fontFolder": "other"
+    },
+    {
+      "key": "aungmyokyaw-imports",
+      "title": "Various authors (via Aung Myo Kyaw)",
+      "description": "Non-overlapping faces imported from Aung Myo Kyaw's Myanmar Unicode Fonts collection.",
+      "link": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+      "fontFolder": "AungMyoKyaw"
+    },
+    {
+      "key": "prahita-via-khzaw",
+      "title": "Prahita (discovered via khzaw)",
+      "description": "Canonical Prahita font discovered through awesome-myanmar-unicode.",
+      "link": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/MasterpieceUniSans/",
+      "fontFolder": "KhzawAwesome"
+    }
+  ],
+  "styles": [
+    "Handwritten / Script",
+    "Sans-Serif / Clean UI",
+    "Serif / Traditional",
+    "Rounded",
+    "Square / Blocky",
+    "Typewriter / Monospaced",
+    "Display / Decorative",
+    "Uncategorized / Imported"
+  ],
+  "fonts": [
+    {
+      "id": "khmer:MyanmarAngoun",
+      "name": "MyanmarAngoun",
+      "cssFamily": "MyanmarAngoun-KhmerType",
+      "localName": "Myanmar Angoun",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarAngoun.ttf",
+        "path": "fonts/KhmerType/MyanmarAngoun.ttf",
+        "url": "fonts/KhmerType/MyanmarAngoun.ttf",
+        "format": "truetype",
+        "bytes": 55084,
+        "sha256": "b6a84e93ae4ee975f21adfa36b6440b09eea6a4164a1506d61d6517d0897bea3"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarChatu",
+      "name": "MyanmarChatu",
+      "cssFamily": "MyanmarChatu",
+      "localName": "Myanmar Chatu",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "MyanmarChatu.ttf",
+        "path": "fonts/KhmerType/MyanmarChatu.ttf",
+        "url": "fonts/KhmerType/MyanmarChatu.ttf",
+        "format": "truetype",
+        "bytes": 94808,
+        "sha256": "6f16b0e455623df4aa74cce95a88a8ce3d493ea1e3b1a18c9b5ec75b165bf468"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarChatuLight",
+      "name": "MyanmarChatuLight",
+      "cssFamily": "MyanmarChatuLight",
+      "localName": "Myanmar Chatu Light",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "MyanmarChatuLight.ttf",
+        "path": "fonts/KhmerType/MyanmarChatuLight.ttf",
+        "url": "fonts/KhmerType/MyanmarChatuLight.ttf",
+        "format": "truetype",
+        "bytes": 96576,
+        "sha256": "ee82dba962d689797221a9139e7b45a2c5103db608ccac9899bb0ff137147a5f"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarGantgaw",
+      "name": "MyanmarGantgaw",
+      "cssFamily": "MyanmarGantgaw",
+      "localName": "Myanmar Gantgaw",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarGantgaw.ttf",
+        "path": "fonts/KhmerType/MyanmarGantgaw.ttf",
+        "url": "fonts/KhmerType/MyanmarGantgaw.ttf",
+        "format": "truetype",
+        "bytes": 89608,
+        "sha256": "bfd44a5ab66d668408f17c7e2ffc4688cdbe4bdee80fb249c822497b7c1b0128"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarKhyay",
+      "name": "MyanmarKhyay",
+      "cssFamily": "MyanmarKhyay",
+      "localName": "Myanmar Khyay",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "MyanmarKhyay.ttf",
+        "path": "fonts/KhmerType/MyanmarKhyay.ttf",
+        "url": "fonts/KhmerType/MyanmarKhyay.ttf",
+        "format": "truetype",
+        "bytes": 62468,
+        "sha256": "fe0dd2727f9889ae310b1b1e8565a9078f185bcb65d3e05417948667a8426f98"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarKuttar",
+      "name": "MyanmarKuttar",
+      "cssFamily": "MyanmarKuttar",
+      "localName": "Myanmar Kuttar",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "MyanmarKuttar.ttf",
+        "path": "fonts/KhmerType/MyanmarKuttar.ttf",
+        "url": "fonts/KhmerType/MyanmarKuttar.ttf",
+        "format": "truetype",
+        "bytes": 96184,
+        "sha256": "9c064827f31aa98f79efcf4a4bff0f876304c95fb80e5828b90c12b5df89b420"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarNayone",
+      "name": "MyanmarNayone",
+      "cssFamily": "MyanmarNayone",
+      "localName": "Myanmar Nayone",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarNayone.ttf",
+        "path": "fonts/KhmerType/MyanmarNayone.ttf",
+        "url": "fonts/KhmerType/MyanmarNayone.ttf",
+        "format": "truetype",
+        "bytes": 86768,
+        "sha256": "7291e62ec1504b7b2045dc81d1934e370d32a820f60813408da6d48460cb0b4d"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarNjaun",
+      "name": "MyanmarNjaun",
+      "cssFamily": "MyanmarNjaun",
+      "localName": "Myanmar Njaun",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarNjaun.ttf",
+        "path": "fonts/KhmerType/MyanmarNjaun.ttf",
+        "url": "fonts/KhmerType/MyanmarNjaun.ttf",
+        "format": "truetype",
+        "bytes": 79436,
+        "sha256": "ffdda544c507c3b9cf6663ddc47450bc641fc3e6af907107ead5a3b3dc02f4e9"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarPauklay",
+      "name": "MyanmarPauklay",
+      "cssFamily": "MyanmarPauklay",
+      "localName": "Myanmar Pauklay",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarPauklay.ttf",
+        "path": "fonts/KhmerType/MyanmarPauklay.ttf",
+        "url": "fonts/KhmerType/MyanmarPauklay.ttf",
+        "format": "truetype",
+        "bytes": 122880,
+        "sha256": "9378ce95eb73f4e6c26c9508762626754638c4eed665b20a31563461f25fd3bb"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarPhetsot",
+      "name": "MyanmarPhetsot",
+      "cssFamily": "MyanmarPhetsot",
+      "localName": "Myanmar Phetsot",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarPhetsot.ttf",
+        "path": "fonts/KhmerType/MyanmarPhetsot.ttf",
+        "url": "fonts/KhmerType/MyanmarPhetsot.ttf",
+        "format": "truetype",
+        "bytes": 85996,
+        "sha256": "880f044d729ae311f82438e4424e27523c494620f196ce62b0388b5865269cc2"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarPhiksel",
+      "name": "MyanmarPhiksel",
+      "cssFamily": "MyanmarPhiksel",
+      "localName": "Myanmar Phiksel",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "MyanmarPhiksel.ttf",
+        "path": "fonts/KhmerType/MyanmarPhiksel.ttf",
+        "url": "fonts/KhmerType/MyanmarPhiksel.ttf",
+        "format": "truetype",
+        "bytes": 110720,
+        "sha256": "7ed5228a5dd5be6079502539aa63d32aa90a3708b30d88b494e6d7722894bfd6"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarPhikselSmooth",
+      "name": "MyanmarPhikselSmooth",
+      "cssFamily": "MyanmarPhikselSmooth",
+      "localName": "Myanmar Phiksel Smooth",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "MyanmarPhikselSmooth.ttf",
+        "path": "fonts/KhmerType/MyanmarPhikselSmooth.ttf",
+        "url": "fonts/KhmerType/MyanmarPhikselSmooth.ttf",
+        "format": "truetype",
+        "bytes": 111084,
+        "sha256": "759f85f0e64d71cef30eae81aeaa69985a36c19151e79499886e88a4f68df01e"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarPonenyet",
+      "name": "MyanmarPonenyet",
+      "cssFamily": "MyanmarPonenyet",
+      "localName": "Myanmar Ponenyet",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "MyanmarPonenyet.ttf",
+        "path": "fonts/KhmerType/MyanmarPonenyet.ttf",
+        "url": "fonts/KhmerType/MyanmarPonenyet.ttf",
+        "format": "truetype",
+        "bytes": 49936,
+        "sha256": "9d913492901c85abed4d0c409c4ffeea64ab1fe29829e86419419ef961889cbb"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarSabae",
+      "name": "MyanmarSabae",
+      "cssFamily": "MyanmarSabae-KhmerType",
+      "localName": "Myanmar Sabae",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarSabae.ttf",
+        "path": "fonts/KhmerType/MyanmarSabae.ttf",
+        "url": "fonts/KhmerType/MyanmarSabae.ttf",
+        "format": "truetype",
+        "bytes": 87660,
+        "sha256": "4154cba218330989243e42639c8a69222821c00fe6527cba124a212d6330547d"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarSagar",
+      "name": "MyanmarSagar",
+      "cssFamily": "MyanmarSagar",
+      "localName": "Myanmar Sagar",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarSagar.ttf",
+        "path": "fonts/KhmerType/MyanmarSagar.ttf",
+        "url": "fonts/KhmerType/MyanmarSagar.ttf",
+        "format": "truetype",
+        "bytes": 169108,
+        "sha256": "d520262ea99c545f6554395d369e6c93dba35b8754569251d3d64413653be4ca"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarSanpya",
+      "name": "MyanmarSanpya",
+      "cssFamily": "MyanmarSanpya",
+      "localName": "Myanmar Sanpya",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarSanpya.ttf",
+        "path": "fonts/KhmerType/MyanmarSanpya.ttf",
+        "url": "fonts/KhmerType/MyanmarSanpya.ttf",
+        "format": "truetype",
+        "bytes": 162708,
+        "sha256": "23872215ed05bcc933dd943a3797ff8cc023f54d27d8d35d0ab040322cffbbbe"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarTagu",
+      "name": "MyanmarTagu",
+      "cssFamily": "MyanmarTagu",
+      "localName": "Myanmar Tagu",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarTagu.ttf",
+        "path": "fonts/KhmerType/MyanmarTagu.ttf",
+        "url": "fonts/KhmerType/MyanmarTagu.ttf",
+        "format": "truetype",
+        "bytes": 72476,
+        "sha256": "4a922c783542020ac855722b50b4e58682ed78ba5f193c2c185700b6f3b72f72"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarThuriya",
+      "name": "MyanmarThuriya",
+      "cssFamily": "MyanmarThuriya",
+      "localName": "Myanmar Thuriya",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarThuriya.ttf",
+        "path": "fonts/KhmerType/MyanmarThuriya.ttf",
+        "url": "fonts/KhmerType/MyanmarThuriya.ttf",
+        "format": "truetype",
+        "bytes": 53516,
+        "sha256": "91f3dbba00070702b610e9584ccb6dd8c548b17d726a08a9d009b4ee814378ae"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarWaso",
+      "name": "MyanmarWaso",
+      "cssFamily": "MyanmarWaso",
+      "localName": "Myanmar Waso",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarWaso.ttf",
+        "path": "fonts/KhmerType/MyanmarWaso.ttf",
+        "url": "fonts/KhmerType/MyanmarWaso.ttf",
+        "format": "truetype",
+        "bytes": 183224,
+        "sha256": "4f8acd7f05479eb1e82e60e64c706d78dec159ea4b9c6e144803196759f3a3bb"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "khmer:MyanmarYinmar",
+      "name": "MyanmarYinmar",
+      "cssFamily": "MyanmarYinmar",
+      "localName": "Myanmar Yinmar",
+      "author": {
+        "key": "khmer",
+        "name": "Khmer Type",
+        "sourceUrl": "https://github.com/khmertype"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarYinmar.ttf",
+        "path": "fonts/KhmerType/MyanmarYinmar.ttf",
+        "url": "fonts/KhmerType/MyanmarYinmar.ttf",
+        "format": "truetype",
+        "bytes": 97488,
+        "sha256": "46ddb2e7e4d65a564821d523bd76c7550595ed7a578fdc72c5dfe93cebb91930"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceCTL",
+      "name": "MasterpieceCTL",
+      "cssFamily": "MasterpieceCTL",
+      "localName": "Masterpiece CTL",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "MasterpieceCTL.ttf",
+        "path": "fonts/masterpiece/MasterpieceCTL.ttf",
+        "url": "fonts/masterpiece/MasterpieceCTL.ttf",
+        "format": "truetype",
+        "bytes": 45216,
+        "sha256": "4fd7482c442088878acf1fe7db02dedd3536ac1aa74e7c3e39024e40be0b87ca"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceLakwel",
+      "name": "MasterpieceLakwel",
+      "cssFamily": "MasterpieceLakwel",
+      "localName": "Masterpiece Lakwel",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Handwritten / Script",
+      "file": {
+        "name": "MasterpieceLakwel.ttf",
+        "path": "fonts/masterpiece/MasterpieceLakwel.ttf",
+        "url": "fonts/masterpiece/MasterpieceLakwel.ttf",
+        "format": "truetype",
+        "bytes": 77636,
+        "sha256": "b6396d952cce90714d77b2a62dc8f33282919d0f59092bb717f06913e364746b"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceSpringRev",
+      "name": "MasterpieceSpringRev",
+      "cssFamily": "MasterpieceSpringRev",
+      "localName": "Masterpiece Spring Revolution",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "MasterpieceSpringRev.ttf",
+        "path": "fonts/masterpiece/MasterpieceSpringRev.ttf",
+        "url": "fonts/masterpiece/MasterpieceSpringRev.ttf",
+        "format": "truetype",
+        "bytes": 46512,
+        "sha256": "a7e65e886e64855aa1884964f45947e1e15d2762ead1307a877b84f5e3ed8ef4"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceStadium",
+      "name": "MasterpieceStadium",
+      "cssFamily": "MasterpieceStadium",
+      "localName": "Masterpiece Stadium",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MasterpieceStadium.ttf",
+        "path": "fonts/masterpiece/MasterpieceStadium.ttf",
+        "url": "fonts/masterpiece/MasterpieceStadium.ttf",
+        "format": "truetype",
+        "bytes": 45776,
+        "sha256": "00250f3506e0242f84f04ba70994b6ff658bc4f64c977459bc39a724046047d6"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceTawWin",
+      "name": "MasterpieceTawWin",
+      "cssFamily": "MasterpieceTawWin",
+      "localName": "Masterpiece Taw Win",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Serif / Traditional",
+      "file": {
+        "name": "MasterpieceTawWin.ttf",
+        "path": "fonts/masterpiece/MasterpieceTawWin.ttf",
+        "url": "fonts/masterpiece/MasterpieceTawWin.ttf",
+        "format": "truetype",
+        "bytes": 62324,
+        "sha256": "79b27bfd178ba136b98d33b72bbafdc324ec05401251f82f201fa21dcfba8638"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceUniHand",
+      "name": "MasterpieceUniHand",
+      "cssFamily": "MasterpieceUniHand",
+      "localName": "Masterpiece Uni HandScript",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Handwritten / Script",
+      "file": {
+        "name": "MasterpieceUniHand.ttf",
+        "path": "fonts/masterpiece/MasterpieceUniHand.ttf",
+        "url": "fonts/masterpiece/MasterpieceUniHand.ttf",
+        "format": "truetype",
+        "bytes": 51736,
+        "sha256": "17d58b3312c6df1399ba66577c3eeae12ef3c4b54bddfcdba8b4e130ee1f4a92"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceUniRound",
+      "name": "MasterpieceUniRound",
+      "cssFamily": "MasterpieceUniRound",
+      "localName": "Masterpiece Uni Round",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Rounded",
+      "file": {
+        "name": "MasterpieceUniRound.ttf",
+        "path": "fonts/masterpiece/MasterpieceUniRound.ttf",
+        "url": "fonts/masterpiece/MasterpieceUniRound.ttf",
+        "format": "truetype",
+        "bytes": 51336,
+        "sha256": "982bc5b540b8e5204fea26c5123cd65411dc9b957b6c1fdacb6f616b57c9545c"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceUniSerif",
+      "name": "MasterpieceUniSerif",
+      "cssFamily": "MasterpieceUniSerif",
+      "localName": "Masterpiece Uni Serif",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Serif / Traditional",
+      "file": {
+        "name": "MasterpieceUniSerif.ttf",
+        "path": "fonts/masterpiece/MasterpieceUniSerif.ttf",
+        "url": "fonts/masterpiece/MasterpieceUniSerif.ttf",
+        "format": "truetype",
+        "bytes": 48968,
+        "sha256": "c0699445417a24907d0558e855a1131c4965569eb9343816b750184164045086"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceUniType",
+      "name": "MasterpieceUniType",
+      "cssFamily": "MasterpieceUniType",
+      "localName": "Masterpiece Uni Type",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Typewriter / Monospaced",
+      "file": {
+        "name": "MasterpieceUniType.ttf",
+        "path": "fonts/masterpiece/MasterpieceUniType.ttf",
+        "url": "fonts/masterpiece/MasterpieceUniType.ttf",
+        "format": "truetype",
+        "bytes": 158084,
+        "sha256": "0605b4d26381aa8a3832159ef6a795e39af22bfc6be135fcc6b20616c242b798"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceYayChanZin",
+      "name": "MasterpieceYayChanZin",
+      "cssFamily": "MasterpieceYayChanZin",
+      "localName": "Masterpiece Yay Chan Zin",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Handwritten / Script",
+      "file": {
+        "name": "MasterpieceYayChanZin.ttf",
+        "path": "fonts/masterpiece/MasterpieceYayChanZin.ttf",
+        "url": "fonts/masterpiece/MasterpieceYayChanZin.ttf",
+        "format": "truetype",
+        "bytes": 74640,
+        "sha256": "d50d0130db36d7699ffcf6acb673e9d07be39dc92bd91f7c2c43ff0f09689fed"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceDaung",
+      "name": "MasterpieceDaung",
+      "cssFamily": "MasterpieceDaung",
+      "localName": "Masterpiece Daung",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "MasterpieceDaung.ttf",
+        "path": "fonts/masterpiece/MasterpieceDaung.ttf",
+        "url": "fonts/masterpiece/MasterpieceDaung.ttf",
+        "format": "truetype",
+        "bytes": 38184,
+        "sha256": "cc7cf38945b01f3b9221ca92aa21a701d9ba3c6a89322d26e23a0ec84a4ce373"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "masterpiece:MasterpieceDaungRound",
+      "name": "MasterpieceDaungRound",
+      "cssFamily": "MasterpieceDaungRound",
+      "localName": "Masterpiece Daung Round",
+      "author": {
+        "key": "masterpiece",
+        "name": "Masterpiece",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/"
+      },
+      "style": "Rounded",
+      "file": {
+        "name": "MasterpieceDaungRound.ttf",
+        "path": "fonts/masterpiece/MasterpieceDaungRound.ttf",
+        "url": "fonts/masterpiece/MasterpieceDaungRound.ttf",
+        "format": "truetype",
+        "bytes": 44416,
+        "sha256": "31f9db450d24a077f9d40b50c559e85976bd2853b3213b2dc5734dc4fc3e0357"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "phoenix-digital-art:ThitSarShweSi",
+      "name": "ThitSarShweSi",
+      "cssFamily": "ThitSarShweSi",
+      "localName": "Thit Sar Shwe Si",
+      "author": {
+        "key": "phoenix-digital-art",
+        "name": "Phoenix Digital Art",
+        "sourceUrl": "https://www.facebook.com/PhoenixDigitalArt"
+      },
+      "style": "Handwritten / Script",
+      "file": {
+        "name": "ThitSarShweSi.ttf",
+        "path": "fonts/PhoenixDigitalArt/ThitSarShweSi.ttf",
+        "url": "fonts/PhoenixDigitalArt/ThitSarShweSi.ttf",
+        "format": "truetype",
+        "bytes": 559688,
+        "sha256": "619651ff27d6c84d827599156f6aef328e2fef9bafcf7dc3e15c95e80b24353d"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "one-type:OneTypeChiangMai",
+      "name": "OneTypeChiangMai",
+      "cssFamily": "OneTypeChiangMai",
+      "localName": "OT Free01_ChiangMai",
+      "author": {
+        "key": "one-type",
+        "name": "One Type",
+        "sourceUrl": "https://www.facebook.com/onetype.fontstudio"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "OneTypeChiangMai.ttf",
+        "path": "fonts/OneType/OneTypeChiangMai.ttf",
+        "url": "fonts/OneType/OneTypeChiangMai.ttf",
+        "format": "truetype",
+        "bytes": 103980,
+        "sha256": "e5942946a133a7c81e33061a800902ecbe670bac22f0d7095d77ebcaabd4e813"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "one-type:OneTypeMMDot",
+      "name": "OneTypeMMDot",
+      "cssFamily": "OneTypeMMDot",
+      "localName": "OT Free02_mmDot",
+      "author": {
+        "key": "one-type",
+        "name": "One Type",
+        "sourceUrl": "https://www.facebook.com/onetype.fontstudio"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "OneTypeMMDot.ttf",
+        "path": "fonts/OneType/OneTypeMMDot.ttf",
+        "url": "fonts/OneType/OneTypeMMDot.ttf",
+        "format": "truetype",
+        "bytes": 156668,
+        "sha256": "2b627ba65da37f6195c5794fd90fca24bcced7ef96359afbf90230d9e2dde9f1"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka01-Bold",
+      "name": "Aka01-Bold",
+      "cssFamily": "Aka01-Bold",
+      "localName": "A ka 01",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Aka01-Bold.ttf",
+        "path": "fonts/Aka/Aka01-Bold.ttf",
+        "url": "fonts/Aka/Aka01-Bold.ttf",
+        "format": "truetype",
+        "bytes": 65552,
+        "sha256": "d7d4f4516c3de1a13c0aab536ba9eca4ff5107ce0878a4265c70323db667a37a"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka01-Medium",
+      "name": "Aka01-Medium",
+      "cssFamily": "Aka01-Medium",
+      "localName": "A ka 01",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Aka01-Medium.ttf",
+        "path": "fonts/Aka/Aka01-Medium.ttf",
+        "url": "fonts/Aka/Aka01-Medium.ttf",
+        "format": "truetype",
+        "bytes": 66604,
+        "sha256": "42d78fb2d0e60781d98325d8363cd6efd21d7a2d87abaea18d6b34c5866fea7c"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka01-Regular",
+      "name": "Aka01-Regular",
+      "cssFamily": "Aka01-Regular",
+      "localName": "A ka 01",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Aka01-Regular.ttf",
+        "path": "fonts/Aka/Aka01-Regular.ttf",
+        "url": "fonts/Aka/Aka01-Regular.ttf",
+        "format": "truetype",
+        "bytes": 67532,
+        "sha256": "e6641666bb4dd8595860432651a2ab469c042a1117dba4469b57c46d4022d1d0"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka011-Bold",
+      "name": "Aka011-Bold",
+      "cssFamily": "Aka011-Bold",
+      "localName": "A ka -011",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Aka011-Bold.ttf",
+        "path": "fonts/Aka/Aka011-Bold.ttf",
+        "url": "fonts/Aka/Aka011-Bold.ttf",
+        "format": "truetype",
+        "bytes": 46220,
+        "sha256": "ce84f8fd8ac59a5415bd32151604b2082857696ee958ecd7598a3ec29ecfe76f"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka011-Light",
+      "name": "Aka011-Light",
+      "cssFamily": "Aka011-Light",
+      "localName": "A ka -011",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Aka011-Light.ttf",
+        "path": "fonts/Aka/Aka011-Light.ttf",
+        "url": "fonts/Aka/Aka011-Light.ttf",
+        "format": "truetype",
+        "bytes": 47220,
+        "sha256": "6fcabae97407e1f4d6c24cf5f42993550719b674695a171354dfcc849f2da3f6"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka011-Regular",
+      "name": "Aka011-Regular",
+      "cssFamily": "Aka011-Regular",
+      "localName": "A ka -011",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Aka011-Regular.ttf",
+        "path": "fonts/Aka/Aka011-Regular.ttf",
+        "url": "fonts/Aka/Aka011-Regular.ttf",
+        "format": "truetype",
+        "bytes": 44476,
+        "sha256": "3cd52633591d4dd8bfc0215016ea55cab89e0ac1bac1f69a92327cb627043a42"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka02-Regular",
+      "name": "Aka02-Regular",
+      "cssFamily": "Aka02-Regular",
+      "localName": "A ka 02",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "Aka02-Regular.ttf",
+        "path": "fonts/Aka/Aka02-Regular.ttf",
+        "url": "fonts/Aka/Aka02-Regular.ttf",
+        "format": "truetype",
+        "bytes": 71760,
+        "sha256": "bfdd12928da37c8dd835d5a486d5b6063868f17cf7b86caa7e7737b9fa13b105"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka03-Regular",
+      "name": "Aka03-Regular",
+      "cssFamily": "Aka03-Regular",
+      "localName": "A ka 03",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "Aka03-Regular.ttf",
+        "path": "fonts/Aka/Aka03-Regular.ttf",
+        "url": "fonts/Aka/Aka03-Regular.ttf",
+        "format": "truetype",
+        "bytes": 146544,
+        "sha256": "69c14f575dedc7659c8ce66999ea7c2a7b5566137c4da2192f014fb0efbe09f7"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka05-Regular",
+      "name": "Aka05-Regular",
+      "cssFamily": "Aka05-Regular",
+      "localName": "A ka 05",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Handwritten / Script",
+      "file": {
+        "name": "Aka05-Regular.ttf",
+        "path": "fonts/Aka/Aka05-Regular.ttf",
+        "url": "fonts/Aka/Aka05-Regular.ttf",
+        "format": "truetype",
+        "bytes": 76780,
+        "sha256": "8a36706d1918514c0530c646ba5c862fbf3b1a79a8fc8efedfa0d33a7d9ddb46"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka06-Regular",
+      "name": "Aka06-Regular",
+      "cssFamily": "Aka06-Regular",
+      "localName": "A ka 06",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "Aka06-Regular.ttf",
+        "path": "fonts/Aka/Aka06-Regular.ttf",
+        "url": "fonts/Aka/Aka06-Regular.ttf",
+        "format": "truetype",
+        "bytes": 86284,
+        "sha256": "c19f4623cd94f2f0907a375ce9daa97fb2fbb256bb156b2a38a4adc679cd4a7e"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka08-Regular",
+      "name": "Aka08-Regular",
+      "cssFamily": "Aka08-Regular",
+      "localName": "A ka 08",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "Aka08-Regular.ttf",
+        "path": "fonts/Aka/Aka08-Regular.ttf",
+        "url": "fonts/Aka/Aka08-Regular.ttf",
+        "format": "truetype",
+        "bytes": 117952,
+        "sha256": "f551c6f4d5bc77bd8bcf44b0cb0ddea05129e9570a8b1096a145ddae66933939"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka09-Regular",
+      "name": "Aka09-Regular",
+      "cssFamily": "Aka09-Regular",
+      "localName": "A ka 09",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Handwritten / Script",
+      "file": {
+        "name": "Aka09-Regular.ttf",
+        "path": "fonts/Aka/Aka09-Regular.ttf",
+        "url": "fonts/Aka/Aka09-Regular.ttf",
+        "format": "truetype",
+        "bytes": 70804,
+        "sha256": "9fa749f9b010ecf4cf0b08f29818a5948208c3b1a3d452acf9706d8ab575a3f1"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:Aka10-Light",
+      "name": "Aka10-Light",
+      "cssFamily": "Aka10-Light",
+      "localName": "A ka 10",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Rounded",
+      "file": {
+        "name": "Aka10-Light.ttf",
+        "path": "fonts/Aka/Aka10-Light.ttf",
+        "url": "fonts/Aka/Aka10-Light.ttf",
+        "format": "truetype",
+        "bytes": 56612,
+        "sha256": "a2c3e662f89d9151b932ff703ceb4a4098c40d9136d29c0d21948bea2c753354"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aka:OpenDyslexic-Regular",
+      "name": "OpenDyslexic-Regular",
+      "cssFamily": "OpenDyslexic-Regular",
+      "localName": "OpenDyslexic",
+      "author": {
+        "key": "aka",
+        "name": "A Ka",
+        "sourceUrl": "https://www.facebook.com/profile.php?id=61570100936629"
+      },
+      "style": "Rounded",
+      "file": {
+        "name": "OpenDyslexic-Regular.ttf",
+        "path": "fonts/Aka/OpenDyslexic-Regular.ttf",
+        "url": "fonts/Aka/OpenDyslexic-Regular.ttf",
+        "format": "truetype",
+        "bytes": 191140,
+        "sha256": "78f52e8b9cba449df5b52edfe388369ff598d93687bd79f7e36f02c93e4fecfb"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:CherryUnicode",
+      "name": "CherryUnicode",
+      "cssFamily": "CherryUnicode",
+      "localName": "Cherry Unicode",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "CherryUnicode.ttf",
+        "path": "fonts/unknown/CherryUnicode.ttf",
+        "url": "fonts/unknown/CherryUnicode.ttf",
+        "format": "truetype",
+        "bytes": 153064,
+        "sha256": "ffce56b05aa7f821b50af89b821a4ae88a0607febe4e5bc8c1eced43df203d7c"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:Kamjing",
+      "name": "Kamjing",
+      "cssFamily": "Kamjing",
+      "localName": "Kamjing-2",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Kamjing.ttf",
+        "path": "fonts/unknown/Kamjing.ttf",
+        "url": "fonts/unknown/Kamjing.ttf",
+        "format": "truetype",
+        "bytes": 225240,
+        "sha256": "fe06011564161573d8a7479d21155434d7ac704998c9a1381e9a636408fec1c1"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:MyanmarBlack",
+      "name": "MyanmarBlack",
+      "cssFamily": "MyanmarBlack",
+      "localName": "Myanmar Black",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "MyanmarBlack.ttf",
+        "path": "fonts/unknown/MyanmarBlack.ttf",
+        "url": "fonts/unknown/MyanmarBlack.ttf",
+        "format": "truetype",
+        "bytes": 34572,
+        "sha256": "d5a257ed055b6dde0b1aa389e299d9d28f6c52b6f80bcc39b0652c1c9c2343b4"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:MyanmarHeadOne",
+      "name": "MyanmarHeadOne",
+      "cssFamily": "MyanmarHeadOne",
+      "localName": "Myanmar Head One",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "MyanmarHeadOne.ttf",
+        "path": "fonts/unknown/MyanmarHeadOne.ttf",
+        "url": "fonts/unknown/MyanmarHeadOne.ttf",
+        "format": "truetype",
+        "bytes": 33016,
+        "sha256": "503427b0d68fbc85c7fcaba707dbcc5700dd073b81692b206840c3caa2c3a3ff"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:MyanmarSquare",
+      "name": "MyanmarSquare",
+      "cssFamily": "MyanmarSquare",
+      "localName": "Myanmar Square",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "MyanmarSquare.ttf",
+        "path": "fonts/unknown/MyanmarSquare.ttf",
+        "url": "fonts/unknown/MyanmarSquare.ttf",
+        "format": "truetype",
+        "bytes": 36408,
+        "sha256": "64cc3e992a20b7882a32cd037bdd5869842c5d740d06a4ff23365a0f08a1feb5"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:MyanmarSquareLight",
+      "name": "MyanmarSquareLight",
+      "cssFamily": "MyanmarSquareLight",
+      "localName": "Myanmar Square Light",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "MyanmarSquareLight.ttf",
+        "path": "fonts/unknown/MyanmarSquareLight.ttf",
+        "url": "fonts/unknown/MyanmarSquareLight.ttf",
+        "format": "truetype",
+        "bytes": 38232,
+        "sha256": "392d43727ecf6d5474ba40f98c46bf8d3a635eab926d1bb79f94a63f8a75a09e"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:NKSSmart2",
+      "name": "NKSSmart2",
+      "cssFamily": "NKSSmart2",
+      "localName": "NK SSmart2",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "NKSSmart2.ttf",
+        "path": "fonts/unknown/NKSSmart2.ttf",
+        "url": "fonts/unknown/NKSSmart2.ttf",
+        "format": "truetype",
+        "bytes": 414612,
+        "sha256": "f062af6a7584f2ce1b6dd037d8477e9781b0da39505ca10a1cf12058a9991b2a"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:NKSSmart3",
+      "name": "NKSSmart3",
+      "cssFamily": "NKSSmart3",
+      "localName": "NK SSmart3",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "NKSSmart3.ttf",
+        "path": "fonts/unknown/NKSSmart3.ttf",
+        "url": "fonts/unknown/NKSSmart3.ttf",
+        "format": "truetype",
+        "bytes": 432188,
+        "sha256": "8463acee151d8c5dd8d592edbda5a04e75437fd5b56e092de4ed6fc3aa3601dc"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:NKSSmart4",
+      "name": "NKSSmart4",
+      "cssFamily": "NKSSmart4",
+      "localName": "NK SSmart4",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "NKSSmart4.ttf",
+        "path": "fonts/unknown/NKSSmart4.ttf",
+        "url": "fonts/unknown/NKSSmart4.ttf",
+        "format": "truetype",
+        "bytes": 465452,
+        "sha256": "75d9b796f0a567f1ce5e36c2f9826b51b2ccff12546d8e46932d08204a15ef49"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:NamKhoneUnicode",
+      "name": "NamKhoneUnicode",
+      "cssFamily": "NamKhoneUnicode",
+      "localName": "NamKhoneUnicode",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "NamKhoneUnicode.ttf",
+        "path": "fonts/unknown/NamKhoneUnicode.ttf",
+        "url": "fonts/unknown/NamKhoneUnicode.ttf",
+        "format": "truetype",
+        "bytes": 533164,
+        "sha256": "efcedb30bb7d2b326b590e0a136e2f481a3c376500387ad4f8583db45e1becbb"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:Yangon",
+      "name": "Yangon",
+      "cssFamily": "Yangon",
+      "localName": "Yangon",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Yangon.ttf",
+        "path": "fonts/unknown/Yangon.ttf",
+        "url": "fonts/unknown/Yangon.ttf",
+        "format": "truetype",
+        "bytes": 31624,
+        "sha256": "f20d6330688957cd300b6b9a56606605dc60f6d2fe586de2c374314afa2e7fed"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:YoeYar-One",
+      "name": "YoeYar-One",
+      "cssFamily": "YoeYar-One",
+      "localName": "YoeYar-One",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Serif / Traditional",
+      "file": {
+        "name": "YoeYar-One.ttf",
+        "path": "fonts/unknown/YoeYar-One.ttf",
+        "url": "fonts/unknown/YoeYar-One.ttf",
+        "format": "truetype",
+        "bytes": 1520268,
+        "sha256": "9d7f7f3c11be4dad52114fb04b6912e4ebfc0c6b18f7726855e52238d6fc6141"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:MyanmarAngoun",
+      "name": "MyanmarAngoun",
+      "cssFamily": "MyanmarAngoun-UnknownAuthor",
+      "localName": "Myanmar Angoun",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarAngoun.ttf",
+        "path": "fonts/unknown/MyanmarAngoun.ttf",
+        "url": "fonts/unknown/MyanmarAngoun.ttf",
+        "format": "truetype",
+        "bytes": 40716,
+        "sha256": "6db1e908e4314d4b49c84135194f93a8d1ff649e304c2fc79d3444dec138455e"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:MyanmarSabae",
+      "name": "MyanmarSabae",
+      "cssFamily": "MyanmarSabae-UnknownAuthor",
+      "localName": "Myanmar Sabae",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarSabae.ttf",
+        "path": "fonts/unknown/MyanmarSabae.ttf",
+        "url": "fonts/unknown/MyanmarSabae.ttf",
+        "format": "truetype",
+        "bytes": 42148,
+        "sha256": "ed08af1a089b3d26c2b233dd4705256b46afd259c05aeae85347f61675caf578"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "unknown:MyanmarSansPro",
+      "name": "MyanmarSansPro",
+      "cssFamily": "MyanmarSansPro-UnknownAuthor",
+      "localName": "Myanmar Sans Pro",
+      "author": {
+        "key": "unknown",
+        "name": "Unknown Author",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarSansPro.ttf",
+        "path": "fonts/unknown/MyanmarSansPro.ttf",
+        "url": "fonts/unknown/MyanmarSansPro.ttf",
+        "format": "truetype",
+        "bytes": 40836,
+        "sha256": "b68c1a4b04efefb3c5ea175e221040dc587066fc4413391c7a43fd855f6c78a1"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:Mon3",
+      "name": "Mon3",
+      "cssFamily": "Mon3",
+      "localName": "MON3 Anonta 1",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Mon3.ttf",
+        "path": "fonts/other/Mon3.ttf",
+        "url": "fonts/other/Mon3.ttf",
+        "format": "truetype",
+        "bytes": 426148,
+        "sha256": "c92f225bf18710f07aefd837c6886cff3672b15a7506d880b70b0bd76335fc25"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:Myanmar3",
+      "name": "Myanmar3",
+      "cssFamily": "Myanmar3",
+      "localName": "Myanmar3",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Myanmar3.TTF",
+        "path": "fonts/other/Myanmar3.TTF",
+        "url": "fonts/other/Myanmar3.TTF",
+        "format": "truetype",
+        "bytes": 122540,
+        "sha256": "560c550d47b860dc4a058943095593f196174e31c0cdeb1c59e1b4d7727b3813"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:MyanmarSansPro",
+      "name": "MyanmarSansPro",
+      "cssFamily": "MyanmarSansPro-Other",
+      "localName": "Myanmar Sans Pro",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyanmarSansPro.ttf",
+        "path": "fonts/other/MyanmarSansPro.ttf",
+        "url": "fonts/other/MyanmarSansPro.ttf",
+        "format": "truetype",
+        "bytes": 34568,
+        "sha256": "bd22052d31852907f35a5690c19ad20bedc505c47cd091201625089ffc29bb97"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:NotoSanMyanmar",
+      "name": "NotoSanMyanmar",
+      "cssFamily": "NotoSanMyanmar",
+      "localName": "NotoSansMyanmarRegular",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "NotoSanMyanmar.ttf",
+        "path": "fonts/other/NotoSanMyanmar.ttf",
+        "url": "fonts/other/NotoSanMyanmar.ttf",
+        "format": "truetype",
+        "bytes": 121576,
+        "sha256": "c7996dd2bf255154b01f14399f55dd903dc4e30d57a5125485c48866cae1dc86"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:NotoSansMyanmarUI",
+      "name": "NotoSansMyanmarUI",
+      "cssFamily": "NotoSansMyanmarUI",
+      "localName": "Noto Sans Myanmar UI",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "NotoSansMyanmarUI.ttf",
+        "path": "fonts/other/NotoSansMyanmarUI.ttf",
+        "url": "fonts/other/NotoSansMyanmarUI.ttf",
+        "format": "truetype",
+        "bytes": 121548,
+        "sha256": "92903dd7e5c3c5b1129ea1a7eef95539063da0d1350622bc3a53dccf6ec84703"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:NotoZawDecode",
+      "name": "NotoZawDecode",
+      "cssFamily": "NotoZawDecode",
+      "localName": "Noto Sans Myanmar UI",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "NotoSansMyanmarUI-Regular-ZawDecode.ttf",
+        "path": "fonts/other/NotoSansMyanmarUI-Regular-ZawDecode.ttf",
+        "url": "fonts/other/NotoSansMyanmarUI-Regular-ZawDecode.ttf",
+        "format": "truetype",
+        "bytes": 148080,
+        "sha256": "3ed6f5535c000e2f5c6156cc06d66ad23dd1dc640a955b7682fd9c79ba2d4cd0"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:NotoSerifMyanmar",
+      "name": "NotoSerifMyanmar",
+      "cssFamily": "NotoSerifMyanmar",
+      "localName": "Noto Serif Myanmar",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Serif / Traditional",
+      "file": {
+        "name": "NotoSerifMyanmar.ttf",
+        "path": "fonts/other/NotoSerifMyanmar.ttf",
+        "url": "fonts/other/NotoSerifMyanmar.ttf",
+        "format": "truetype",
+        "bytes": 184244,
+        "sha256": "5c6608c84acda19933aae12c015350546b433d66284bc889795ac87f5579a53a"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:Ours-Unicode",
+      "name": "Ours-Unicode",
+      "cssFamily": "Ours-Unicode",
+      "localName": "Ours-Unicode",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Ours-Unicode.ttf",
+        "path": "fonts/other/Ours-Unicode.ttf",
+        "url": "fonts/other/Ours-Unicode.ttf",
+        "format": "truetype",
+        "bytes": 209108,
+        "sha256": "b5cfcb3285a6e2fd266606deed0bac7f79e346892411e404ca5d4e52317af8bd"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:Pyidaungsu",
+      "name": "Pyidaungsu",
+      "cssFamily": "Pyidaungsu",
+      "localName": "Pyidaungsu",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Pyidaungsu.ttf",
+        "path": "fonts/other/Pyidaungsu.ttf",
+        "url": "fonts/other/Pyidaungsu.ttf",
+        "format": "truetype",
+        "bytes": 188768,
+        "sha256": "dc1ddab4496b11cda2b4828eccea0e3e876a0a1433e9b63899b165f96330844e"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:Yunghkio",
+      "name": "Yunghkio",
+      "cssFamily": "Yunghkio",
+      "localName": "Yunghkio",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "Yunghkio.ttf",
+        "path": "fonts/other/Yunghkio.ttf",
+        "url": "fonts/other/Yunghkio.ttf",
+        "format": "truetype",
+        "bytes": 452856,
+        "sha256": "aff05cc154f6c7e88e7f02241cf9de4956bf4fdec2eaaf582a564482805ad162"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:MyMyanmarUniversal",
+      "name": "MyMyanmarUniversal",
+      "cssFamily": "MyMyanmarUniversal",
+      "localName": "!MyMyanmar Universal",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "MyMyanmarUniversal.ttf",
+        "path": "fonts/other/MyMyanmarUniversal.ttf",
+        "url": "fonts/other/MyMyanmarUniversal.ttf",
+        "format": "truetype",
+        "bytes": 98376,
+        "sha256": "6472f062580f72013bf28ad1e5c61c73b1bb31d38b8e1d99d23aa5ecef2b3956"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "other:NotoSansMyanmar",
+      "name": "NotoSansMyanmar",
+      "cssFamily": "NotoSansMyanmar",
+      "localName": "NotoSansMyanmar",
+      "author": {
+        "key": "other",
+        "name": "Other Fonts",
+        "sourceUrl": null
+      },
+      "style": "Sans-Serif / Clean UI",
+      "file": {
+        "name": "NotoSansMyanmar-Regular.ttf",
+        "path": "fonts/other/NotoSansMyanmar-Regular.ttf",
+        "url": "fonts/other/NotoSansMyanmar-Regular.ttf",
+        "format": "truetype",
+        "bytes": 183164,
+        "sha256": "52c27fe2643e3e34bae3b3d8865f6a2400e8c955d1adbe311979ea012116eb13"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM01_WaTokeLay-Regular",
+      "name": "SM01_WaTokeLay-Regular",
+      "cssFamily": "SM01_WaTokeLay-Regular",
+      "localName": "SM01_WaTokeLay",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Handwritten / Script",
+      "file": {
+        "name": "SM01_WaTokeLay-Regular.ttf",
+        "path": "fonts/SaiMoon/SM01_WaTokeLay-Regular.ttf",
+        "url": "fonts/SaiMoon/SM01_WaTokeLay-Regular.ttf",
+        "format": "truetype",
+        "bytes": 105668,
+        "sha256": "1b87d700d43f1a767caff73f3ce6468585e2dfa571823b2872d9e24428d60617"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM02_KanBaung-Regular",
+      "name": "SM02_KanBaung-Regular",
+      "cssFamily": "SM02_KanBaung-Regular",
+      "localName": "SM02_KanBaung",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "SM02_KanBaung-Regular.ttf",
+        "path": "fonts/SaiMoon/SM02_KanBaung-Regular.ttf",
+        "url": "fonts/SaiMoon/SM02_KanBaung-Regular.ttf",
+        "format": "truetype",
+        "bytes": 49016,
+        "sha256": "2b26d593bd1285aa236539a19eefc0d9596b495b24eb37b020983046e45e29b8"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM03_KaWai-Regular",
+      "name": "SM03_KaWai-Regular",
+      "cssFamily": "SM03_KaWai-Regular",
+      "localName": "SM03_KaWai",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "SM03_KaWai-Regular.ttf",
+        "path": "fonts/SaiMoon/SM03_KaWai-Regular.ttf",
+        "url": "fonts/SaiMoon/SM03_KaWai-Regular.ttf",
+        "format": "truetype",
+        "bytes": 58636,
+        "sha256": "8bd11f97b6a0ea63db8f98177b4ef116ce8561c60cb38a7c214cb30be073b192"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM04Moon-Italic",
+      "name": "SM04Moon-Italic",
+      "cssFamily": "SM04Moon-Italic",
+      "localName": "SM04_Moon",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "SM04Moon-Italic.ttf",
+        "path": "fonts/SaiMoon/SM04Moon-Italic.ttf",
+        "url": "fonts/SaiMoon/SM04Moon-Italic.ttf",
+        "format": "truetype",
+        "bytes": 187860,
+        "sha256": "358bc7056a568d204fae65a489048c034f7fc38f672e59db1705f8adec894d22"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM04_Moon-Bold",
+      "name": "SM04_Moon-Bold",
+      "cssFamily": "SM04_Moon-Bold",
+      "localName": "SM04_Moon",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "SM04_Moon-Bold.ttf",
+        "path": "fonts/SaiMoon/SM04_Moon-Bold.ttf",
+        "url": "fonts/SaiMoon/SM04_Moon-Bold.ttf",
+        "format": "truetype",
+        "bytes": 93208,
+        "sha256": "fb5323cac5c5aa0d2a1e661ec9c9b654fa8ae62dcf67059cdd501104caa4bfef"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM04_Moon-Regular",
+      "name": "SM04_Moon-Regular",
+      "cssFamily": "SM04_Moon-Regular",
+      "localName": "SM04_Moon",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "SM04_Moon-Regular.ttf",
+        "path": "fonts/SaiMoon/SM04_Moon-Regular.ttf",
+        "url": "fonts/SaiMoon/SM04_Moon-Regular.ttf",
+        "format": "truetype",
+        "bytes": 79860,
+        "sha256": "b7fda0847213ced68df3515b8dd61d9f87e65c052cb8004a136b44b75cb95502"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM04_Moon-Thin",
+      "name": "SM04_Moon-Thin",
+      "cssFamily": "SM04_Moon-Thin",
+      "localName": "SM04_Moon",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Square / Blocky",
+      "file": {
+        "name": "SM04_Moon-Thin.ttf",
+        "path": "fonts/SaiMoon/SM04_Moon-Thin.ttf",
+        "url": "fonts/SaiMoon/SM04_Moon-Thin.ttf",
+        "format": "truetype",
+        "bytes": 137496,
+        "sha256": "3db0360d8d9d65e99bcc25d53d71c3676e0517a34b192bf471eba5f43e69df87"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM06_LaikPyar-Bold",
+      "name": "SM06_LaikPyar-Bold",
+      "cssFamily": "SM06_LaikPyar-Bold",
+      "localName": "SM06_LaikPyar",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "SM06_LaikPyar-Bold.ttf",
+        "path": "fonts/SaiMoon/SM06_LaikPyar-Bold.ttf",
+        "url": "fonts/SaiMoon/SM06_LaikPyar-Bold.ttf",
+        "format": "truetype",
+        "bytes": 107712,
+        "sha256": "d6cffd87d7923474e7b21b4ede6b8be858b80058fd77e030208abd158cf8eb1f"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM06_LaikPyar-Regular",
+      "name": "SM06_LaikPyar-Regular",
+      "cssFamily": "SM06_LaikPyar-Regular",
+      "localName": "SM06_LaikPyar",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "SM06_LaikPyar-Regular.ttf",
+        "path": "fonts/SaiMoon/SM06_LaikPyar-Regular.ttf",
+        "url": "fonts/SaiMoon/SM06_LaikPyar-Regular.ttf",
+        "format": "truetype",
+        "bytes": 73020,
+        "sha256": "f7af40863cf64e81306098cf110ce69fae8319590cd02ed1121ee23b3ae71e7a"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM06_LaikPyar-Straight",
+      "name": "SM06_LaikPyar-Straight",
+      "cssFamily": "SM06_LaikPyar-Straight",
+      "localName": "SM06_LaikPyar",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "SM06_LaikPyar-Straight.ttf",
+        "path": "fonts/SaiMoon/SM06_LaikPyar-Straight.ttf",
+        "url": "fonts/SaiMoon/SM06_LaikPyar-Straight.ttf",
+        "format": "truetype",
+        "bytes": 105364,
+        "sha256": "f29cbd44477a0d120c11b76f65aad6037cc87198f347d49bc04b5cebe8e5255c"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM06_LaikPyar-Thin",
+      "name": "SM06_LaikPyar-Thin",
+      "cssFamily": "SM06_LaikPyar-Thin",
+      "localName": "SM06_LaikPyar",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "SM06_LaikPyar-Thin.ttf",
+        "path": "fonts/SaiMoon/SM06_LaikPyar-Thin.ttf",
+        "url": "fonts/SaiMoon/SM06_LaikPyar-Thin.ttf",
+        "format": "truetype",
+        "bytes": 117616,
+        "sha256": "ade9ed4c38c07d92a4c70bbc80eb7d2fc9df743dd69e4004cd891f54e1d2d4f0"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM07_Virus-Regular",
+      "name": "SM07_Virus-Regular",
+      "cssFamily": "SM07_Virus-Regular",
+      "localName": "SM07_Virus",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "SM07_Virus-Regular.ttf",
+        "path": "fonts/SaiMoon/SM07_Virus-Regular.ttf",
+        "url": "fonts/SaiMoon/SM07_Virus-Regular.ttf",
+        "format": "truetype",
+        "bytes": 55028,
+        "sha256": "8f1c7928076a22961751fdca70953396236de5137d6bdd51554f16c5e8d5f938"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM08_AntiVirus-Regular",
+      "name": "SM08_AntiVirus-Regular",
+      "cssFamily": "SM08_AntiVirus-Regular",
+      "localName": "SM08_AntiVirus",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Display / Decorative",
+      "file": {
+        "name": "SM08_AntiVirus-Regular.ttf",
+        "path": "fonts/SaiMoon/SM08_AntiVirus-Regular.ttf",
+        "url": "fonts/SaiMoon/SM08_AntiVirus-Regular.ttf",
+        "format": "truetype",
+        "bytes": 77752,
+        "sha256": "3abe88d7e271b2c1cfbcec069592984c6e2e6f9dc725671302457be456657d71"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "saimoon:SM09_BeeZee-Regular",
+      "name": "SM09_BeeZee-Regular",
+      "cssFamily": "SM09_BeeZee-Regular",
+      "localName": "SM09_BeeZee",
+      "author": {
+        "key": "saimoon",
+        "name": "Sai Moon",
+        "sourceUrl": "https://www.facebook.com/21.11creative/"
+      },
+      "style": "Handwritten / Script",
+      "file": {
+        "name": "SM09_BeeZee-Regular.otf",
+        "path": "fonts/SaiMoon/SM09_BeeZee-Regular.otf",
+        "url": "fonts/SaiMoon/SM09_BeeZee-Regular.otf",
+        "format": "opentype",
+        "bytes": 147572,
+        "sha256": "7114eb0750569b23101a41d7e3ae287e928de6f29ed92d17175c3afe2a304cfd"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": null,
+        "note": "No verified per-font license is present in the upstream catalog."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "SaturnGod (Htain Lin Shwe)",
+        "upstream": "https://github.com/saturngod/myanmar-unicode-fonts"
+      },
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": []
+    },
+    {
+      "id": "aungmyokyaw:gantgaw-regular",
+      "name": "Gantgaw",
+      "cssFamily": "Gantgaw",
+      "localName": "Gantgaw",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Gantgaw-Regular.ttf",
+        "path": "fonts/AungMyoKyaw/Gantgaw/Gantgaw-Regular.ttf",
+        "url": "fonts/AungMyoKyaw/Gantgaw/Gantgaw-Regular.ttf",
+        "format": "truetype",
+        "bytes": 85204,
+        "sha256": "582269a4d317171fb38aa0f8a07469bbfd191b819e7ace6c9224e81df98f5fc2"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:jasmine-unicode-regular",
+      "name": "Jasmine Unicode",
+      "cssFamily": "Jasmine Unicode",
+      "localName": "Jasmine Unicode",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Jasmine_Unicode.ttf",
+        "path": "fonts/AungMyoKyaw/JasmineUnicode/Jasmine_Unicode.ttf",
+        "url": "fonts/AungMyoKyaw/JasmineUnicode/Jasmine_Unicode.ttf",
+        "format": "truetype",
+        "bytes": 165028,
+        "sha256": "544b7fee6e02f0f1dacecd8a425b69694b7273a6447058442e3c8a172f29cc75"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:kengtawng-002-regular",
+      "name": "KengTawng.002",
+      "cssFamily": "KengTawng.002",
+      "localName": "KengTawng.002",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "KT_02.ttf",
+        "path": "fonts/AungMyoKyaw/KT_Unicode/KT_02.ttf",
+        "url": "fonts/AungMyoKyaw/KT_Unicode/KT_02.ttf",
+        "format": "truetype",
+        "bytes": 347076,
+        "sha256": "0feaf2c507d7eb12524bb79e5d04f90aca66d9f45a9e8aefe5a53faac2a37e2c"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:kt-unicode-03-regular",
+      "name": "KT Unicode 03",
+      "cssFamily": "KT Unicode 03",
+      "localName": "KT Unicode 03",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "KT_03.ttf",
+        "path": "fonts/AungMyoKyaw/KT_Unicode/KT_03.ttf",
+        "url": "fonts/AungMyoKyaw/KT_Unicode/KT_03.ttf",
+        "format": "truetype",
+        "bytes": 160744,
+        "sha256": "a5b8c0cfdb198e31ae3fbfe21b7219cf441feaf8653a738e5a279037cdfa636e"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar3h-regular",
+      "name": "Myanmar3h",
+      "cssFamily": "Myanmar3h",
+      "localName": "Myanmar3h",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "mm3h.ttf",
+        "path": "fonts/AungMyoKyaw/Myanmar3/mm3h.ttf",
+        "url": "fonts/AungMyoKyaw/Myanmar3/mm3h.ttf",
+        "format": "truetype",
+        "bytes": 103108,
+        "sha256": "9acf8be100194d8cb6915bddf63f0799ebb6c01cf4cc03c9201dfddbd07c2433"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar3-paoh-regular",
+      "name": "Myanmar3 PaOh",
+      "cssFamily": "Myanmar3 PaOh",
+      "localName": "Myanmar3 PaOh",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "MM3_Paoh.ttf",
+        "path": "fonts/AungMyoKyaw/Myanmar3_PaOh/MM3_Paoh.ttf",
+        "url": "fonts/AungMyoKyaw/Myanmar3_PaOh/MM3_Paoh.ttf",
+        "format": "truetype",
+        "bytes": 101908,
+        "sha256": "73d5baaf97c4e796ed696aa79cb579001dbdcfdb6beca9a84be530fac3654a3d"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar-census-regular",
+      "name": "Myanmar Census",
+      "cssFamily": "Myanmar Census",
+      "localName": "Myanmar Census",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "myanmarcensus.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarCensus/myanmarcensus.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarCensus/myanmarcensus.ttf",
+        "format": "truetype",
+        "bytes": 159264,
+        "sha256": "a1cc37b74c03db5fc7e8a0d029697e1026b2be8cd6aa0c959eaa478180ad866c"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar-khway-regular",
+      "name": "Myanmar Khway",
+      "cssFamily": "Myanmar Khway",
+      "localName": "Myanmar Khway",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "MyanmarKhway.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarKhway/MyanmarKhway.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarKhway/MyanmarKhway.ttf",
+        "format": "truetype",
+        "bytes": 41636,
+        "sha256": "72fe99f0831d50cbeec355471466843b3f3dbd3e27bb1c6a86693b3505edc0f1"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:regular",
+      "name": "áá­áá±á¬ááº",
+      "cssFamily": "áá­áá±á¬ááº",
+      "localName": "áá­áá±á¬ááº",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "MyanmarPaOhOne.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarPaOhOne/MyanmarPaOhOne.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarPaOhOne/MyanmarPaOhOne.ttf",
+        "format": "truetype",
+        "bytes": 342400,
+        "sha256": "87a886899e28912df72293c18f748e4395b570a8fec185083d14c03933c0ba10"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar-paoh-rosemary-regular",
+      "name": "Myanmar PaOh Rosemary",
+      "cssFamily": "Myanmar PaOh Rosemary",
+      "localName": "Myanmar PaOh Rosemary",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [
+        "vendor-font-review-required"
+      ],
+      "file": {
+        "name": "MIUI Unicode.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarPaOhRosemary/MIUI%20Unicode.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarPaOhRosemary/MIUI%20Unicode.ttf",
+        "format": "truetype",
+        "bytes": 353924,
+        "sha256": "da51d8c7749f192f563e44564c5125634645075881cddee2752ed44f3f5049dd"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar-pixel-regular",
+      "name": "Myanmar Pixel",
+      "cssFamily": "Myanmar Pixel",
+      "localName": "Myanmar Pixel",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "MyanmarPixel.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarPixel/MyanmarPixel.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarPixel/MyanmarPixel.ttf",
+        "format": "truetype",
+        "bytes": 39840,
+        "sha256": "3153be07f5a2e1fd33f880ad616ae7e234201d71ff78f2c0290947bbbdf1e19c"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar-pixel-smooth-regular",
+      "name": "Myanmar Pixel Smooth",
+      "cssFamily": "Myanmar Pixel Smooth",
+      "localName": "Myanmar Pixel Smooth",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "MyanmarPixelSmooth.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarPixel/MyanmarPixelSmooth.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarPixel/MyanmarPixelSmooth.ttf",
+        "format": "truetype",
+        "bytes": 40012,
+        "sha256": "fb1b049ac67d1351720044eb4e3b776d2af7462b9fc89f41ee7579fc67861c34"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar-punk-regular",
+      "name": "Myanmar punk",
+      "cssFamily": "Myanmar punk",
+      "localName": "Myanmar punk",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Myanmar_Punk.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarPunk/Myanmar_Punk.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarPunk/Myanmar_Punk.ttf",
+        "format": "truetype",
+        "bytes": 40888,
+        "sha256": "1b8d43a0f405f015a0fe318944b173c5e2bdc01714b4037878e6630ab9bfbcb9"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar-taungyi-regular",
+      "name": "Myanmar Taungyi",
+      "cssFamily": "Myanmar Taungyi",
+      "localName": "Myanmar Taungyi",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "MyanmarTaungyi.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarTaungyi/MyanmarTaungyi.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarTaungyi/MyanmarTaungyi.ttf",
+        "format": "truetype",
+        "bytes": 119268,
+        "sha256": "b2dccea25936ee9127474635559dcb79a67acecf298927565402f75c436a9ee2"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar-text-regular",
+      "name": "Myanmar Text",
+      "cssFamily": "Myanmar Text",
+      "localName": "Myanmar Text",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [
+        "vendor-font-review-required"
+      ],
+      "file": {
+        "name": "mmrtext.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarText/mmrtext.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarText/mmrtext.ttf",
+        "format": "truetype",
+        "bytes": 268224,
+        "sha256": "5fe58eb92beaf349f29c7f989e307701a62f60326c83379f0fd32d0930cd28d1"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:myanmar-text-bold",
+      "name": "Myanmar Text",
+      "cssFamily": "Myanmar Text",
+      "localName": "Myanmar Text",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Bold",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [
+        "vendor-font-review-required"
+      ],
+      "file": {
+        "name": "mmrtextb.ttf",
+        "path": "fonts/AungMyoKyaw/MyanmarText/mmrtextb.ttf",
+        "url": "fonts/AungMyoKyaw/MyanmarText/mmrtextb.ttf",
+        "format": "truetype",
+        "bytes": 248832,
+        "sha256": "a90ddbb5a9459dac6f2cb816df3ceffb849a5e141ac8f7bf3fd2d8122ffed333"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:namkhone-web-pro-regular",
+      "name": "NamKhone Web Pro",
+      "cssFamily": "NamKhone Web Pro",
+      "localName": "NamKhone Web Pro",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Namkhon_Web_pro.ttf",
+        "path": "fonts/AungMyoKyaw/Namkhon/Namkhon_Web_pro.ttf",
+        "url": "fonts/AungMyoKyaw/Namkhon/Namkhon_Web_pro.ttf",
+        "format": "truetype",
+        "bytes": 590124,
+        "sha256": "45cf6e4116ae8d1942e55dce8523807e1b32f6f1c0229121ca3242e50c47ecbc"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:namkhone-grand-regular",
+      "name": "NamKhone Grand",
+      "cssFamily": "NamKhone Grand",
+      "localName": "NamKhone Grand",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "NK Grand.ttf",
+        "path": "fonts/AungMyoKyaw/Namkhon/NK%20Grand.ttf",
+        "url": "fonts/AungMyoKyaw/Namkhon/NK%20Grand.ttf",
+        "format": "truetype",
+        "bytes": 276640,
+        "sha256": "61b5ba499335eb7977cf2a3aa4991ee49d88defd73163cea9bf37d85a1a8c505"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:noto-sans-myanmar-ui-bold",
+      "name": "Noto Sans Myanmar UI",
+      "cssFamily": "Noto Sans Myanmar UI",
+      "localName": "Noto Sans Myanmar UI",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Bold",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Notosan Myanmar UI Bold.ttf",
+        "path": "fonts/AungMyoKyaw/NotoSansMyanmar/Notosan%20Myanmar%20UI%20Bold.ttf",
+        "url": "fonts/AungMyoKyaw/NotoSansMyanmar/Notosan%20Myanmar%20UI%20Bold.ttf",
+        "format": "truetype",
+        "bytes": 134436,
+        "sha256": "8a6ac05816a79c84524ee75caa58777fa55e618b85114e3b09d34c1e1695bd54"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:noto-sans-myanmar-bold",
+      "name": "Noto Sans Myanmar",
+      "cssFamily": "Noto Sans Myanmar",
+      "localName": "Noto Sans Myanmar",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Bold",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "NotoSansMyanmar-Bold.ttf",
+        "path": "fonts/AungMyoKyaw/NotoSansMyanmar/NotoSansMyanmar-Bold.ttf",
+        "url": "fonts/AungMyoKyaw/NotoSansMyanmar/NotoSansMyanmar-Bold.ttf",
+        "format": "truetype",
+        "bytes": 104692,
+        "sha256": "2abcef1067b38489bd2f3bce353ba71f97db8eb3a151e644cab1e30218c3968d"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-bold",
+      "name": "Padauk",
+      "cssFamily": "Padauk",
+      "localName": "Padauk",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Bold",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Padauk-bold.ttf",
+        "path": "fonts/AungMyoKyaw/Padauk/Padauk-bold.ttf",
+        "url": "fonts/AungMyoKyaw/Padauk/Padauk-bold.ttf",
+        "format": "truetype",
+        "bytes": 443268,
+        "sha256": "2d382b8113c78fa895695339a9de473feeabd8194bed3118775962d4e267f848"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-book-regular",
+      "name": "Padauk Book",
+      "cssFamily": "Padauk Book",
+      "localName": "Padauk Book",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "padauk-book.ttf",
+        "path": "fonts/AungMyoKyaw/Padauk/padauk-book.ttf",
+        "url": "fonts/AungMyoKyaw/Padauk/padauk-book.ttf",
+        "format": "truetype",
+        "bytes": 476528,
+        "sha256": "d9f72c5d556ea198a81e96247aca3f0cb80e7c8ae2e377d6fa812b4d213882a5"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-book-bold",
+      "name": "Padauk Book",
+      "cssFamily": "Padauk Book",
+      "localName": "Padauk Book",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Bold",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "padauk-bookbold.ttf",
+        "path": "fonts/AungMyoKyaw/Padauk/padauk-bookbold.ttf",
+        "url": "fonts/AungMyoKyaw/Padauk/padauk-bookbold.ttf",
+        "format": "truetype",
+        "bytes": 442096,
+        "sha256": "1309ec498901a1b9fb1b0540e02956021034426732ce7c68880662a32ce0f88a"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-zawgyi",
+      "name": "Padauk",
+      "cssFamily": "Padauk",
+      "localName": "Padauk",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Zawgyi",
+      "encoding": "zawgyi",
+      "riskFlags": [
+        "legacy-zawgyi-encoding"
+      ],
+      "file": {
+        "name": "Padauk-Zawgyi.ttf",
+        "path": "fonts/AungMyoKyaw/Padauk/Padauk-Zawgyi.ttf",
+        "url": "fonts/AungMyoKyaw/Padauk/Padauk-Zawgyi.ttf",
+        "format": "truetype",
+        "bytes": 176844,
+        "sha256": "722e74b04be5d6a2c0bf83138f11de3d72f45d2070e3532acd45d9af7c4cbec0"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-regular",
+      "name": "Padauk",
+      "cssFamily": "Padauk",
+      "localName": "Padauk",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Padauk.ttf",
+        "path": "fonts/AungMyoKyaw/Padauk/Padauk.ttf",
+        "url": "fonts/AungMyoKyaw/Padauk/Padauk.ttf",
+        "format": "truetype",
+        "bytes": 472488,
+        "sha256": "31f2e29e41ba49f6dcf92f72b14678939ac6f04a728b7f0ce286249c5d21260a"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-grand-pro-regular",
+      "name": "Padauk Grand Pro",
+      "cssFamily": "Padauk Grand Pro",
+      "localName": "Padauk Grand Pro",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "PadaukGrandPro v2.ttf",
+        "path": "fonts/AungMyoKyaw/PadaukGrandPro/PadaukGrandPro%20v2.ttf",
+        "url": "fonts/AungMyoKyaw/PadaukGrandPro/PadaukGrandPro%20v2.ttf",
+        "format": "truetype",
+        "bytes": 1594164,
+        "sha256": "4af34a8350bd304612ee216586e70f834a10b8a2359d4c7cdd12c019a485b0d1"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-kyaungchee-regular",
+      "name": "Padauk KyaungChee",
+      "cssFamily": "Padauk KyaungChee",
+      "localName": "Padauk KyaungChee",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Padauk Kyaungchikote.ttf",
+        "path": "fonts/AungMyoKyaw/PadaukKyaungchikote/Padauk%20Kyaungchikote.ttf",
+        "url": "fonts/AungMyoKyaw/PadaukKyaungchikote/Padauk%20Kyaungchikote.ttf",
+        "format": "truetype",
+        "bytes": 277808,
+        "sha256": "ca99c001d5375fee3eeb0a1ebeadc62f178aee6763fa09fce571d991e9334171"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-sagar-regular",
+      "name": "Padauk Sagar",
+      "cssFamily": "Padauk Sagar",
+      "localName": "Padauk Sagar",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "PadaukSagar.ttf",
+        "path": "fonts/AungMyoKyaw/PadaukSagar/PadaukSagar.ttf",
+        "url": "fonts/AungMyoKyaw/PadaukSagar/PadaukSagar.ttf",
+        "format": "truetype",
+        "bytes": 346524,
+        "sha256": "bb38b263f1f9db703a300b15805e4231fc22cc0ddccebfea8a2a725f2e06ca5a"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-sgaw-bold",
+      "name": "Padauk Sgaw",
+      "cssFamily": "Padauk Sgaw",
+      "localName": "Padauk Sgaw",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Bold",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "PadaukSgaw-Bold.ttf",
+        "path": "fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw-Bold.ttf",
+        "url": "fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw-Bold.ttf",
+        "format": "truetype",
+        "bytes": 446060,
+        "sha256": "bdfd78f5d1c1f3d946d8df33c14058b95373259ecc7a98697cebc387bf0fd745"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-book-sgaw-regular",
+      "name": "Padauk Book Sgaw",
+      "cssFamily": "Padauk Book Sgaw",
+      "localName": "Padauk Book Sgaw",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "PadaukSgaw-book.ttf",
+        "path": "fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw-book.ttf",
+        "url": "fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw-book.ttf",
+        "format": "truetype",
+        "bytes": 479580,
+        "sha256": "c47d1767309376361169ad6026d03c3944d12b046381ffa658a9d6c4bdb038f9"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-book-sgaw-bold",
+      "name": "Padauk Book Sgaw",
+      "cssFamily": "Padauk Book Sgaw",
+      "localName": "Padauk Book Sgaw",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Bold",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "PadaukSgaw-bookbold.ttf",
+        "path": "fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw-bookbold.ttf",
+        "url": "fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw-bookbold.ttf",
+        "format": "truetype",
+        "bytes": 444968,
+        "sha256": "49f20cf0a17faff9a7ae331847f8b10aa2536a6e11571a588fc3103dbc62f13c"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:padauk-sgaw-regular",
+      "name": "Padauk Sgaw",
+      "cssFamily": "Padauk Sgaw",
+      "localName": "Padauk Sgaw",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "PadaukSgaw.ttf",
+        "path": "fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw.ttf",
+        "url": "fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw.ttf",
+        "format": "truetype",
+        "bytes": 475908,
+        "sha256": "d98ae6d7ef72242e7c1c6884a294056ca6806ee78cfb34b668acf4639980e6ab"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:panglong-regular",
+      "name": "PangLong",
+      "cssFamily": "PangLong",
+      "localName": "PangLong",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "PangLong_2011feb7.ttf",
+        "path": "fonts/AungMyoKyaw/PangLong/PangLong_2011feb7.ttf",
+        "url": "fonts/AungMyoKyaw/PangLong/PangLong_2011feb7.ttf",
+        "format": "truetype",
+        "bytes": 437244,
+        "sha256": "86c2612b20e2e7015f2543e50edf1c21755867937eaa8c15cab9744e0879f7ae"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:parabaik-regular",
+      "name": "Parabaik",
+      "cssFamily": "Parabaik",
+      "localName": "Parabaik",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Parabaik_UTN11-3.ttf",
+        "path": "fonts/AungMyoKyaw/Parabaik/Parabaik_UTN11-3.ttf",
+        "url": "fonts/AungMyoKyaw/Parabaik/Parabaik_UTN11-3.ttf",
+        "format": "truetype",
+        "bytes": 149540,
+        "sha256": "2cab8529928a3ab0a8584005fa30759887d75b28833879152e2e5073d6253ed7"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:samsungmyanmar-regular",
+      "name": "SamsungMyanmar",
+      "cssFamily": "SamsungMyanmar",
+      "localName": "SamsungMyanmar",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [
+        "vendor-font-review-required"
+      ],
+      "file": {
+        "name": "Samsung Myanmar.ttf",
+        "path": "fonts/AungMyoKyaw/SamsungMyanmar/Samsung%20Myanmar.ttf",
+        "url": "fonts/AungMyoKyaw/SamsungMyanmar/Samsung%20Myanmar.ttf",
+        "format": "truetype",
+        "bytes": 156604,
+        "sha256": "8c646e47dc76bf08f237a5e82a28ecbc7985d3ff7505ca15ef882d98fe534e17"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:shan-unicode-regular",
+      "name": "Shan Unicode",
+      "cssFamily": "Shan Unicode",
+      "localName": "Shan Unicode",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "Shan Unicode.ttf",
+        "path": "fonts/AungMyoKyaw/ShanUnicode/Shan%20Unicode.ttf",
+        "url": "fonts/AungMyoKyaw/ShanUnicode/Shan%20Unicode.ttf",
+        "format": "truetype",
+        "bytes": 462600,
+        "sha256": "7d50ef5f7c791d61640e1f55b5ab8c42d17aac538310554f3ca23e029377e5b6"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:thanlwin-medium",
+      "name": "ThanLwin",
+      "cssFamily": "ThanLwin",
+      "localName": "ThanLwin",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Medium",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "ThanLwin.ttf",
+        "path": "fonts/AungMyoKyaw/Thanlwin/ThanLwin.ttf",
+        "url": "fonts/AungMyoKyaw/Thanlwin/ThanLwin.ttf",
+        "format": "truetype",
+        "bytes": 1080116,
+        "sha256": "b3f3219783811c7bfe21f684898a4929799e9c75518deeb22089995b883a75c2"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:tharlon-regular",
+      "name": "TharLon",
+      "cssFamily": "TharLon",
+      "localName": "TharLon",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "TharLon.ttf",
+        "path": "fonts/AungMyoKyaw/Tharlon/TharLon.ttf",
+        "url": "fonts/AungMyoKyaw/Tharlon/TharLon.ttf",
+        "format": "truetype",
+        "bytes": 353228,
+        "sha256": "e07315f6fe0df481f4dfbddf276d7962ea0738aae7916c206ec37adc2ecb94d7"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:winuni-innwa-regular",
+      "name": "WinUni Innwa",
+      "cssFamily": "WinUni Innwa",
+      "localName": "WinUni Innwa",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Regular",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "WinUniInnwa.ttf",
+        "path": "fonts/AungMyoKyaw/WinUniInnwa/WinUniInnwa.ttf",
+        "url": "fonts/AungMyoKyaw/WinUniInnwa/WinUniInnwa.ttf",
+        "format": "truetype",
+        "bytes": 403872,
+        "sha256": "62a44ddceec12fde9f1d1ccccae2985e96f31073e8dba7c2c24831c26725fb57"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:yoeyar-one-bold",
+      "name": "YoeYar-One",
+      "cssFamily": "YoeYar-One",
+      "localName": "YoeYar-One",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Bold",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "YoeYar-One Bold.ttf",
+        "path": "fonts/AungMyoKyaw/YoeYarOne/YoeYar-One%20Bold.ttf",
+        "url": "fonts/AungMyoKyaw/YoeYarOne/YoeYar-One%20Bold.ttf",
+        "format": "truetype",
+        "bytes": 1469996,
+        "sha256": "26eede6a75ce0d0634e7b5b3ad101dcac353d7b3f4c198ae36061d31c887c4d4"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "aungmyokyaw:yoeyar-one-light",
+      "name": "YoeYar-One",
+      "cssFamily": "YoeYar-One",
+      "localName": "YoeYar-One",
+      "author": {
+        "key": "aungmyokyaw-imports",
+        "name": "Various authors (via Aung Myo Kyaw)",
+        "sourceUrl": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts"
+      },
+      "style": "Uncategorized / Imported",
+      "fontStyle": "Light",
+      "encoding": "unicode-or-unverified",
+      "riskFlags": [],
+      "file": {
+        "name": "YoeYar-One Light.ttf",
+        "path": "fonts/AungMyoKyaw/YoeYarOne/YoeYar-One%20Light.ttf",
+        "url": "fonts/AungMyoKyaw/YoeYarOne/YoeYar-One%20Light.ttf",
+        "format": "truetype",
+        "bytes": 1659924,
+        "sha256": "150bb17c0c84eba0b7574f5f0bbcfea0363bcd3f4c8c7c087ec09094d9e28d92"
+      },
+      "license": {
+        "status": "unverified",
+        "id": null,
+        "url": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "note": "License information must be confirmed from the source repository or original copyright holder."
+      },
+      "attribution": {
+        "collection": "Myanmar Unicode Fonts",
+        "curator": "Aung Myo Kyaw",
+        "upstream": "https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    },
+    {
+      "id": "khzaw-awesome:masterpiece-uni-sans-regular",
+      "name": "Masterpiece Uni Sans",
+      "cssFamily": "Masterpiece Uni Sans",
+      "localName": "Masterpiece Uni Sans",
+      "author": {
+        "key": "prahita-via-khzaw",
+        "name": "Prahita (discovered via khzaw)",
+        "sourceUrl": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/MasterpieceUniSans/"
+      },
+      "style": "Sans-Serif / Clean UI",
+      "fontStyle": "Regular",
+      "encoding": "unicode",
+      "riskFlags": [],
+      "file": {
+        "name": "MasterpieceUniSans.ttf",
+        "path": "fonts/KhzawAwesome/MasterpieceUniSans/MasterpieceUniSans.ttf",
+        "url": "fonts/KhzawAwesome/MasterpieceUniSans/MasterpieceUniSans.ttf",
+        "format": "truetype",
+        "bytes": 66788,
+        "sha256": "9bde2dfab792a271752a3de107bea5a352ff00b6bf06ee69fbd7cc0126ad9f73"
+      },
+      "license": {
+        "status": "verified-from-canonical-release",
+        "id": "OFL",
+        "url": "https://sourceforge.net/p/prahita/news/2010/11/masterpiece-uni-sans-07-is-now-available/",
+        "note": "Prahita's canonical release announcement records a license change to OFL."
+      },
+      "attribution": {
+        "collection": "awesome-myanmar-unicode",
+        "curator": "Ko Htet Zaw (khzaw) and contributors",
+        "upstream": "https://github.com/khzaw/awesome-myanmar-unicode",
+        "canonicalSource": "https://sourceforge.net/projects/prahita/files/Myanmar%20Unicode%20Fonts/MasterpieceUniSans/",
+        "foundationalCollection": "SaturnGod (Htain Lin Shwe)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "myanmar-fonts-cdn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A versioned, static CDN build of SaturnGod's Myanmar Unicode font collection.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Myanmar Fonts CDN",
+  "latest": "1.0.0",
+  "aliases": {
+    "v1": "1.0.0"
+  },
+  "catalog": "v1/catalog.json",
+  "stylesheet": "v1/mmfonts.css",
+  "attribution": "Based on the collection curated by SaturnGod (Htain Lin Shwe)."
+}

@@ -1,0 +1,1196 @@
+/*
+ * Myanmar Fonts CDN
+ * Collection curated by SaturnGod (Htain Lin Shwe)
+ * Upstream: https://github.com/saturngod/myanmar-unicode-fonts
+ * Font licenses are individual and currently unverified; see catalog.json and NOTICE.md.
+ * Version: 1.0.0
+ */
+
+/* MyanmarAngoun — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarAngoun-KhmerType";
+  src: local("Myanmar Angoun"), url("fonts/KhmerType/MyanmarAngoun.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarChatu — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarChatu";
+  src: local("Myanmar Chatu"), url("fonts/KhmerType/MyanmarChatu.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarChatuLight — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarChatuLight";
+  src: local("Myanmar Chatu Light"), url("fonts/KhmerType/MyanmarChatuLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarGantgaw — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarGantgaw";
+  src: local("Myanmar Gantgaw"), url("fonts/KhmerType/MyanmarGantgaw.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarKhyay — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarKhyay";
+  src: local("Myanmar Khyay"), url("fonts/KhmerType/MyanmarKhyay.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarKuttar — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarKuttar";
+  src: local("Myanmar Kuttar"), url("fonts/KhmerType/MyanmarKuttar.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarNayone — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarNayone";
+  src: local("Myanmar Nayone"), url("fonts/KhmerType/MyanmarNayone.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarNjaun — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarNjaun";
+  src: local("Myanmar Njaun"), url("fonts/KhmerType/MyanmarNjaun.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarPauklay — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarPauklay";
+  src: local("Myanmar Pauklay"), url("fonts/KhmerType/MyanmarPauklay.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarPhetsot — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarPhetsot";
+  src: local("Myanmar Phetsot"), url("fonts/KhmerType/MyanmarPhetsot.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarPhiksel — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarPhiksel";
+  src: local("Myanmar Phiksel"), url("fonts/KhmerType/MyanmarPhiksel.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarPhikselSmooth — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarPhikselSmooth";
+  src: local("Myanmar Phiksel Smooth"), url("fonts/KhmerType/MyanmarPhikselSmooth.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarPonenyet — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarPonenyet";
+  src: local("Myanmar Ponenyet"), url("fonts/KhmerType/MyanmarPonenyet.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarSabae — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarSabae-KhmerType";
+  src: local("Myanmar Sabae"), url("fonts/KhmerType/MyanmarSabae.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarSagar — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarSagar";
+  src: local("Myanmar Sagar"), url("fonts/KhmerType/MyanmarSagar.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarSanpya — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarSanpya";
+  src: local("Myanmar Sanpya"), url("fonts/KhmerType/MyanmarSanpya.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarTagu — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarTagu";
+  src: local("Myanmar Tagu"), url("fonts/KhmerType/MyanmarTagu.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarThuriya — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarThuriya";
+  src: local("Myanmar Thuriya"), url("fonts/KhmerType/MyanmarThuriya.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarWaso — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarWaso";
+  src: local("Myanmar Waso"), url("fonts/KhmerType/MyanmarWaso.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarYinmar — Khmer Type; license: unverified */
+@font-face {
+  font-family: "MyanmarYinmar";
+  src: local("Myanmar Yinmar"), url("fonts/KhmerType/MyanmarYinmar.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceCTL — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceCTL";
+  src: local("Masterpiece CTL"), url("fonts/masterpiece/MasterpieceCTL.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceLakwel — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceLakwel";
+  src: local("Masterpiece Lakwel"), url("fonts/masterpiece/MasterpieceLakwel.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceSpringRev — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceSpringRev";
+  src: local("Masterpiece Spring Revolution"), url("fonts/masterpiece/MasterpieceSpringRev.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceStadium — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceStadium";
+  src: local("Masterpiece Stadium"), url("fonts/masterpiece/MasterpieceStadium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceTawWin — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceTawWin";
+  src: local("Masterpiece Taw Win"), url("fonts/masterpiece/MasterpieceTawWin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceUniHand — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceUniHand";
+  src: local("Masterpiece Uni HandScript"), url("fonts/masterpiece/MasterpieceUniHand.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceUniRound — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceUniRound";
+  src: local("Masterpiece Uni Round"), url("fonts/masterpiece/MasterpieceUniRound.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceUniSerif — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceUniSerif";
+  src: local("Masterpiece Uni Serif"), url("fonts/masterpiece/MasterpieceUniSerif.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceUniType — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceUniType";
+  src: local("Masterpiece Uni Type"), url("fonts/masterpiece/MasterpieceUniType.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceYayChanZin — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceYayChanZin";
+  src: local("Masterpiece Yay Chan Zin"), url("fonts/masterpiece/MasterpieceYayChanZin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceDaung — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceDaung";
+  src: local("Masterpiece Daung"), url("fonts/masterpiece/MasterpieceDaung.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MasterpieceDaungRound — Masterpiece; license: unverified */
+@font-face {
+  font-family: "MasterpieceDaungRound";
+  src: local("Masterpiece Daung Round"), url("fonts/masterpiece/MasterpieceDaungRound.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* ThitSarShweSi — Phoenix Digital Art; license: unverified */
+@font-face {
+  font-family: "ThitSarShweSi";
+  src: local("Thit Sar Shwe Si"), url("fonts/PhoenixDigitalArt/ThitSarShweSi.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* OneTypeChiangMai — One Type; license: unverified */
+@font-face {
+  font-family: "OneTypeChiangMai";
+  src: local("OT Free01_ChiangMai"), url("fonts/OneType/OneTypeChiangMai.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* OneTypeMMDot — One Type; license: unverified */
+@font-face {
+  font-family: "OneTypeMMDot";
+  src: local("OT Free02_mmDot"), url("fonts/OneType/OneTypeMMDot.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka01-Bold — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka01-Bold";
+  src: local("A ka 01"), url("fonts/Aka/Aka01-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka01-Medium — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka01-Medium";
+  src: local("A ka 01"), url("fonts/Aka/Aka01-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka01-Regular — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka01-Regular";
+  src: local("A ka 01"), url("fonts/Aka/Aka01-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka011-Bold — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka011-Bold";
+  src: local("A ka -011"), url("fonts/Aka/Aka011-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka011-Light — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka011-Light";
+  src: local("A ka -011"), url("fonts/Aka/Aka011-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka011-Regular — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka011-Regular";
+  src: local("A ka -011"), url("fonts/Aka/Aka011-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka02-Regular — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka02-Regular";
+  src: local("A ka 02"), url("fonts/Aka/Aka02-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka03-Regular — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka03-Regular";
+  src: local("A ka 03"), url("fonts/Aka/Aka03-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka05-Regular — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka05-Regular";
+  src: local("A ka 05"), url("fonts/Aka/Aka05-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka06-Regular — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka06-Regular";
+  src: local("A ka 06"), url("fonts/Aka/Aka06-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka08-Regular — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka08-Regular";
+  src: local("A ka 08"), url("fonts/Aka/Aka08-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka09-Regular — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka09-Regular";
+  src: local("A ka 09"), url("fonts/Aka/Aka09-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Aka10-Light — A Ka; license: unverified */
+@font-face {
+  font-family: "Aka10-Light";
+  src: local("A ka 10"), url("fonts/Aka/Aka10-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* OpenDyslexic-Regular — A Ka; license: unverified */
+@font-face {
+  font-family: "OpenDyslexic-Regular";
+  src: local("OpenDyslexic"), url("fonts/Aka/OpenDyslexic-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* CherryUnicode — Unknown Author; license: unverified */
+@font-face {
+  font-family: "CherryUnicode";
+  src: local("Cherry Unicode"), url("fonts/unknown/CherryUnicode.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Kamjing — Unknown Author; license: unverified */
+@font-face {
+  font-family: "Kamjing";
+  src: local("Kamjing-2"), url("fonts/unknown/Kamjing.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarBlack — Unknown Author; license: unverified */
+@font-face {
+  font-family: "MyanmarBlack";
+  src: local("Myanmar Black"), url("fonts/unknown/MyanmarBlack.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarHeadOne — Unknown Author; license: unverified */
+@font-face {
+  font-family: "MyanmarHeadOne";
+  src: local("Myanmar Head One"), url("fonts/unknown/MyanmarHeadOne.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarSquare — Unknown Author; license: unverified */
+@font-face {
+  font-family: "MyanmarSquare";
+  src: local("Myanmar Square"), url("fonts/unknown/MyanmarSquare.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarSquareLight — Unknown Author; license: unverified */
+@font-face {
+  font-family: "MyanmarSquareLight";
+  src: local("Myanmar Square Light"), url("fonts/unknown/MyanmarSquareLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NKSSmart2 — Unknown Author; license: unverified */
+@font-face {
+  font-family: "NKSSmart2";
+  src: local("NK SSmart2"), url("fonts/unknown/NKSSmart2.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NKSSmart3 — Unknown Author; license: unverified */
+@font-face {
+  font-family: "NKSSmart3";
+  src: local("NK SSmart3"), url("fonts/unknown/NKSSmart3.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NKSSmart4 — Unknown Author; license: unverified */
+@font-face {
+  font-family: "NKSSmart4";
+  src: local("NK SSmart4"), url("fonts/unknown/NKSSmart4.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NamKhoneUnicode — Unknown Author; license: unverified */
+@font-face {
+  font-family: "NamKhoneUnicode";
+  src: local("NamKhoneUnicode"), url("fonts/unknown/NamKhoneUnicode.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Yangon — Unknown Author; license: unverified */
+@font-face {
+  font-family: "Yangon";
+  src: local("Yangon"), url("fonts/unknown/Yangon.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* YoeYar-One — Unknown Author; license: unverified */
+@font-face {
+  font-family: "YoeYar-One";
+  src: local("YoeYar-One"), url("fonts/unknown/YoeYar-One.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarAngoun — Unknown Author; license: unverified */
+@font-face {
+  font-family: "MyanmarAngoun-UnknownAuthor";
+  src: local("Myanmar Angoun"), url("fonts/unknown/MyanmarAngoun.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarSabae — Unknown Author; license: unverified */
+@font-face {
+  font-family: "MyanmarSabae-UnknownAuthor";
+  src: local("Myanmar Sabae"), url("fonts/unknown/MyanmarSabae.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarSansPro — Unknown Author; license: unverified */
+@font-face {
+  font-family: "MyanmarSansPro-UnknownAuthor";
+  src: local("Myanmar Sans Pro"), url("fonts/unknown/MyanmarSansPro.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Mon3 — Other Fonts; license: unverified */
+@font-face {
+  font-family: "Mon3";
+  src: local("MON3 Anonta 1"), url("fonts/other/Mon3.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar3 — Other Fonts; license: unverified */
+@font-face {
+  font-family: "Myanmar3";
+  src: local("Myanmar3"), url("fonts/other/Myanmar3.TTF") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyanmarSansPro — Other Fonts; license: unverified */
+@font-face {
+  font-family: "MyanmarSansPro-Other";
+  src: local("Myanmar Sans Pro"), url("fonts/other/MyanmarSansPro.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NotoSanMyanmar — Other Fonts; license: unverified */
+@font-face {
+  font-family: "NotoSanMyanmar";
+  src: local("NotoSansMyanmarRegular"), url("fonts/other/NotoSanMyanmar.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NotoSansMyanmarUI — Other Fonts; license: unverified */
+@font-face {
+  font-family: "NotoSansMyanmarUI";
+  src: local("Noto Sans Myanmar UI"), url("fonts/other/NotoSansMyanmarUI.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NotoZawDecode — Other Fonts; license: unverified */
+@font-face {
+  font-family: "NotoZawDecode";
+  src: local("Noto Sans Myanmar UI"), url("fonts/other/NotoSansMyanmarUI-Regular-ZawDecode.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NotoSerifMyanmar — Other Fonts; license: unverified */
+@font-face {
+  font-family: "NotoSerifMyanmar";
+  src: local("Noto Serif Myanmar"), url("fonts/other/NotoSerifMyanmar.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Ours-Unicode — Other Fonts; license: unverified */
+@font-face {
+  font-family: "Ours-Unicode";
+  src: local("Ours-Unicode"), url("fonts/other/Ours-Unicode.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Pyidaungsu — Other Fonts; license: unverified */
+@font-face {
+  font-family: "Pyidaungsu";
+  src: local("Pyidaungsu"), url("fonts/other/Pyidaungsu.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Yunghkio — Other Fonts; license: unverified */
+@font-face {
+  font-family: "Yunghkio";
+  src: local("Yunghkio"), url("fonts/other/Yunghkio.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* MyMyanmarUniversal — Other Fonts; license: unverified */
+@font-face {
+  font-family: "MyMyanmarUniversal";
+  src: local("!MyMyanmar Universal"), url("fonts/other/MyMyanmarUniversal.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NotoSansMyanmar — Other Fonts; license: unverified */
+@font-face {
+  font-family: "NotoSansMyanmar";
+  src: local("NotoSansMyanmar"), url("fonts/other/NotoSansMyanmar-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM01_WaTokeLay-Regular — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM01_WaTokeLay-Regular";
+  src: local("SM01_WaTokeLay"), url("fonts/SaiMoon/SM01_WaTokeLay-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM02_KanBaung-Regular — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM02_KanBaung-Regular";
+  src: local("SM02_KanBaung"), url("fonts/SaiMoon/SM02_KanBaung-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM03_KaWai-Regular — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM03_KaWai-Regular";
+  src: local("SM03_KaWai"), url("fonts/SaiMoon/SM03_KaWai-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM04Moon-Italic — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM04Moon-Italic";
+  src: local("SM04_Moon"), url("fonts/SaiMoon/SM04Moon-Italic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM04_Moon-Bold — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM04_Moon-Bold";
+  src: local("SM04_Moon"), url("fonts/SaiMoon/SM04_Moon-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM04_Moon-Regular — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM04_Moon-Regular";
+  src: local("SM04_Moon"), url("fonts/SaiMoon/SM04_Moon-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM04_Moon-Thin — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM04_Moon-Thin";
+  src: local("SM04_Moon"), url("fonts/SaiMoon/SM04_Moon-Thin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM06_LaikPyar-Bold — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM06_LaikPyar-Bold";
+  src: local("SM06_LaikPyar"), url("fonts/SaiMoon/SM06_LaikPyar-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM06_LaikPyar-Regular — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM06_LaikPyar-Regular";
+  src: local("SM06_LaikPyar"), url("fonts/SaiMoon/SM06_LaikPyar-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM06_LaikPyar-Straight — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM06_LaikPyar-Straight";
+  src: local("SM06_LaikPyar"), url("fonts/SaiMoon/SM06_LaikPyar-Straight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM06_LaikPyar-Thin — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM06_LaikPyar-Thin";
+  src: local("SM06_LaikPyar"), url("fonts/SaiMoon/SM06_LaikPyar-Thin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM07_Virus-Regular — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM07_Virus-Regular";
+  src: local("SM07_Virus"), url("fonts/SaiMoon/SM07_Virus-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM08_AntiVirus-Regular — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM08_AntiVirus-Regular";
+  src: local("SM08_AntiVirus"), url("fonts/SaiMoon/SM08_AntiVirus-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SM09_BeeZee-Regular — Sai Moon; license: unverified */
+@font-face {
+  font-family: "SM09_BeeZee-Regular";
+  src: local("SM09_BeeZee"), url("fonts/SaiMoon/SM09_BeeZee-Regular.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Gantgaw — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Gantgaw";
+  src: local("Gantgaw"), url("fonts/AungMyoKyaw/Gantgaw/Gantgaw-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Jasmine Unicode — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Jasmine Unicode";
+  src: local("Jasmine Unicode"), url("fonts/AungMyoKyaw/JasmineUnicode/Jasmine_Unicode.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* KengTawng.002 — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "KengTawng.002";
+  src: local("KengTawng.002"), url("fonts/AungMyoKyaw/KT_Unicode/KT_02.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* KT Unicode 03 — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "KT Unicode 03";
+  src: local("KT Unicode 03"), url("fonts/AungMyoKyaw/KT_Unicode/KT_03.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar3h — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar3h";
+  src: local("Myanmar3h"), url("fonts/AungMyoKyaw/Myanmar3/mm3h.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar3 PaOh — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar3 PaOh";
+  src: local("Myanmar3 PaOh"), url("fonts/AungMyoKyaw/Myanmar3_PaOh/MM3_Paoh.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar Census — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar Census";
+  src: local("Myanmar Census"), url("fonts/AungMyoKyaw/MyanmarCensus/myanmarcensus.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar Khway — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar Khway";
+  src: local("Myanmar Khway"), url("fonts/AungMyoKyaw/MyanmarKhway/MyanmarKhway.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* áá­áá±á¬ááº — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "áá­áá±á¬ááº";
+  src: local("áá­áá±á¬ááº"), url("fonts/AungMyoKyaw/MyanmarPaOhOne/MyanmarPaOhOne.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar PaOh Rosemary — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar PaOh Rosemary";
+  src: local("Myanmar PaOh Rosemary"), url("fonts/AungMyoKyaw/MyanmarPaOhRosemary/MIUI%20Unicode.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar Pixel — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar Pixel";
+  src: local("Myanmar Pixel"), url("fonts/AungMyoKyaw/MyanmarPixel/MyanmarPixel.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar Pixel Smooth — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar Pixel Smooth";
+  src: local("Myanmar Pixel Smooth"), url("fonts/AungMyoKyaw/MyanmarPixel/MyanmarPixelSmooth.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar punk — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar punk";
+  src: local("Myanmar punk"), url("fonts/AungMyoKyaw/MyanmarPunk/Myanmar_Punk.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar Taungyi — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar Taungyi";
+  src: local("Myanmar Taungyi"), url("fonts/AungMyoKyaw/MyanmarTaungyi/MyanmarTaungyi.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar Text — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar Text";
+  src: local("Myanmar Text"), url("fonts/AungMyoKyaw/MyanmarText/mmrtext.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Myanmar Text — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Myanmar Text";
+  src: local("Myanmar Text"), url("fonts/AungMyoKyaw/MyanmarText/mmrtextb.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* NamKhone Web Pro — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "NamKhone Web Pro";
+  src: local("NamKhone Web Pro"), url("fonts/AungMyoKyaw/Namkhon/Namkhon_Web_pro.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* NamKhone Grand — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "NamKhone Grand";
+  src: local("NamKhone Grand"), url("fonts/AungMyoKyaw/Namkhon/NK%20Grand.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Noto Sans Myanmar UI — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Noto Sans Myanmar UI";
+  src: local("Noto Sans Myanmar UI"), url("fonts/AungMyoKyaw/NotoSansMyanmar/Notosan%20Myanmar%20UI%20Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Noto Sans Myanmar — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Noto Sans Myanmar";
+  src: local("Noto Sans Myanmar"), url("fonts/AungMyoKyaw/NotoSansMyanmar/NotoSansMyanmar-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Padauk — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk";
+  src: local("Padauk"), url("fonts/AungMyoKyaw/Padauk/Padauk-bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Padauk Book — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk Book";
+  src: local("Padauk Book"), url("fonts/AungMyoKyaw/Padauk/padauk-book.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Padauk Book — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk Book";
+  src: local("Padauk Book"), url("fonts/AungMyoKyaw/Padauk/padauk-bookbold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Padauk — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk";
+  src: local("Padauk"), url("fonts/AungMyoKyaw/Padauk/Padauk-Zawgyi.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Padauk — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk";
+  src: local("Padauk"), url("fonts/AungMyoKyaw/Padauk/Padauk.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Padauk Grand Pro — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk Grand Pro";
+  src: local("Padauk Grand Pro"), url("fonts/AungMyoKyaw/PadaukGrandPro/PadaukGrandPro%20v2.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Padauk KyaungChee — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk KyaungChee";
+  src: local("Padauk KyaungChee"), url("fonts/AungMyoKyaw/PadaukKyaungchikote/Padauk%20Kyaungchikote.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Padauk Sagar — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk Sagar";
+  src: local("Padauk Sagar"), url("fonts/AungMyoKyaw/PadaukSagar/PadaukSagar.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Padauk Sgaw — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk Sgaw";
+  src: local("Padauk Sgaw"), url("fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Padauk Book Sgaw — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk Book Sgaw";
+  src: local("Padauk Book Sgaw"), url("fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw-book.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Padauk Book Sgaw — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk Book Sgaw";
+  src: local("Padauk Book Sgaw"), url("fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw-bookbold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Padauk Sgaw — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Padauk Sgaw";
+  src: local("Padauk Sgaw"), url("fonts/AungMyoKyaw/PadaukSgaw/PadaukSgaw.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* PangLong — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "PangLong";
+  src: local("PangLong"), url("fonts/AungMyoKyaw/PangLong/PangLong_2011feb7.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Parabaik — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Parabaik";
+  src: local("Parabaik"), url("fonts/AungMyoKyaw/Parabaik/Parabaik_UTN11-3.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* SamsungMyanmar — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "SamsungMyanmar";
+  src: local("SamsungMyanmar"), url("fonts/AungMyoKyaw/SamsungMyanmar/Samsung%20Myanmar.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Shan Unicode — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "Shan Unicode";
+  src: local("Shan Unicode"), url("fonts/AungMyoKyaw/ShanUnicode/Shan%20Unicode.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* ThanLwin — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "ThanLwin";
+  src: local("ThanLwin"), url("fonts/AungMyoKyaw/Thanlwin/ThanLwin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* TharLon — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "TharLon";
+  src: local("TharLon"), url("fonts/AungMyoKyaw/Tharlon/TharLon.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* WinUni Innwa — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "WinUni Innwa";
+  src: local("WinUni Innwa"), url("fonts/AungMyoKyaw/WinUniInnwa/WinUniInnwa.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* YoeYar-One — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "YoeYar-One";
+  src: local("YoeYar-One"), url("fonts/AungMyoKyaw/YoeYarOne/YoeYar-One%20Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* YoeYar-One — Various authors (via Aung Myo Kyaw); license: unverified */
+@font-face {
+  font-family: "YoeYar-One";
+  src: local("YoeYar-One"), url("fonts/AungMyoKyaw/YoeYarOne/YoeYar-One%20Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+/* Masterpiece Uni Sans — Prahita (discovered via khzaw); license: verified-from-canonical-release */
+@font-face {
+  font-family: "Masterpiece Uni Sans";
+  src: local("Masterpiece Uni Sans"), url("fonts/KhzawAwesome/MasterpieceUniSans/MasterpieceUniSans.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
